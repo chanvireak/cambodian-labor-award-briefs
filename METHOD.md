@@ -42,5 +42,6 @@ the brief says so rather than inventing one.
 - 2,059 awards are briefed here, from a library of 2,078 documents; 3 were excluded as not-award or
   OCR-destroyed, and 16 are held back pending review.
 - Each `[Para N]` was machine-verified against its numbered source line.
-- `reports/index.md` and `reports/digest.md` are generated on every run and filed by topic, then by year.
+- `reports/index/` and `reports/digest/` are generated on every run as one page per year and per topic,
+  so neither grows into a single unwieldy file.
   Every count in them is computed from the brief text; nothing is hand-maintained.

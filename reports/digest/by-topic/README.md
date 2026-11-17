@@ -1,0 +1,24 @@
+# Digest by topic
+
+- [annual leave](annual_leave.md) — 24
+- [attendance bonus](attendance_bonus.md) — 29
+- [dismissal compensation](dismissal_compensation.md) — 4
+- [fixed term to indefinite](fixed_term_to_indefinite.md) — 347
+- [general](general.md) — 52
+- [interest dispute](interest_dispute.md) — 73
+- [maternity](maternity.md) — 31
+- [meal allowance](meal_allowance.md) — 22
+- [most representative](most_representative.md) — 852
+- [night work](night_work.md) — 3
+- [notice pay](notice_pay.md) — 10
+- [nursery](nursery.md) — 2
+- [occupational safety](occupational_safety.md) — 4
+- [overtime](overtime.md) — 11
+- [probation](probation.md) — 3
+- [reinstatement](reinstatement.md) — 46
+- [seniority bonus](seniority_bonus.md) — 5
+- [severance pay](severance_pay.md) — 39
+- [strike](strike.md) — 11
+- [union dues](union_dues.md) — 18
+- [union leader protection](union_leader_protection.md) — 254
+- [wages during suspension](wages_during_suspension.md) — 219
