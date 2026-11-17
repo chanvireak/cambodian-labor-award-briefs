@@ -39,7 +39,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 53/05 | english | dismissed | [140790](2005/most_representative/140790.md) |
 | Award No. 59/05 | english | partly granted | [140792](2005/most_representative/140792.md) |
 
-#### 2006 — 10
+#### 2006 — 13
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -47,11 +47,14 @@ Filed by topic, then by year, then by award number.
 | Award No. 109/06 | khmer | dismissed | [140747](2006/most_representative/140747.md) |
 | Award No. 11/06 | english | dismissed | [140684](2006/most_representative/140684.md) |
 | Award No. 20/06 | khmer | dismissed | [140693](2006/most_representative/140693.md) |
+| Award No. 48/06 | khmer | partly granted | [140706](2006/most_representative/140706.md) |
+| Award No. 54/06 | khmer | dismissed | [140710](2006/most_representative/140710.md) |
 | Award No. 56/06 | khmer | partly granted | [140711](2006/most_representative/140711.md) |
 | Award No. 57/06 | khmer | partly granted | [140713](2006/most_representative/140713.md) |
 | Award No. 60/06 | khmer | partly granted | [140715](2006/most_representative/140715.md) |
 | Award No. 62/06 | khmer | partly granted | [140716](2006/most_representative/140716.md) |
 | Award No. 64/06 | khmer | partly granted | [140720](2006/most_representative/140720.md) |
+| Award No. 68/06 | khmer | partly granted | [140723](2006/most_representative/140723.md) |
 | Award No. 76/05 | english | partly granted | [140801](2006/most_representative/140801.md) |
 
 #### 2007 — 43
@@ -142,7 +145,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 80/08 | khmer | granted | [140530](2008/most_representative/140530.md) |
 | Award No. 81/08 | khmer | dismissed | [140531](2008/most_representative/140531.md) |
 
-#### 2009 — 42
+#### 2009 — 44
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -162,6 +165,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 141/09 | khmer | partly granted | [140445](2009/most_representative/140445.md) |
 | Award No. 15/09 | english | granted | [140356](2009/most_representative/140356.md) |
 | Award No. 152/08 | khmer | dismissed | [140575](2009/most_representative/140575.md) |
+| Award No. 155/09 | khmer | granted | [140455](2009/most_representative/140455.md) |
 | Award No. 162/09 | khmer | partly granted | [140461](2009/most_representative/140461.md) |
 | Award No. 165/09 | khmer | partly granted | [140460](2009/most_representative/140460.md) |
 | Award No. 18/09 | khmer | dismissed | [140361](2009/most_representative/140361.md) |
@@ -185,6 +189,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 85/09 | khmer | partly granted | [140411](2009/most_representative/140411.md) |
 | Award No. 86/09 | khmer | partly granted | [140407](2009/most_representative/140407.md) |
 | Award No. 89/09 | khmer | granted | [140409](2009/most_representative/140409.md) |
+| Award No. 92/09 | khmer | dismissed | [140414](2009/most_representative/140414.md) |
 | Award No. 93/09 | khmer | partly granted | [140412](2009/most_representative/140412.md) |
 | Award No. 95/09 | khmer | partly granted | [140415](2009/most_representative/140415.md) |
 | Award No. 96/09 | khmer | dismissed | [140416](2009/most_representative/140416.md) |
@@ -298,7 +303,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 96/11 | khmer | partly granted | [140058](2011/most_representative/140058.md) |
 | Award No. 99/11 | khmer | dismissed | [140060](2011/most_representative/140060.md) |
 
-#### 2012 — 68
+#### 2012 — 69
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -339,6 +344,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 179/12 | khmer | dismissed | [140179](2012/most_representative/140179.md) |
 | Award No. 180/12 | khmer | partly granted | [140180](2012/most_representative/140180.md) |
 | Award No. 181/12 | khmer | partly granted | [140181](2012/most_representative/140181.md) |
+| Award No. 182/12 | khmer | dismissed | [140183](2012/most_representative/140183.md) |
 | Award No. 183/12 | khmer | partly granted | [140182](2012/most_representative/140182.md) |
 | Award No. 189/11 | khmer | partly granted | [140125](2012/most_representative/140125.md) |
 | Award No. 203/12 | khmer | partly granted | [140200](2012/most_representative/140200.md) |
@@ -960,17 +966,6 @@ Filed by topic, then by year, then by award number.
 |---|---|---|---|
 | Award No. 002/25 | khmer | dismissed | [140890](2025/most_representative/140890.md) |
 
-#### unknown — 6
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| Award No. 155/09 | khmer | granted | [140455](unknown/most_representative/140455.md) |
-| Award No. 182/12 | khmer | dismissed | [140183](unknown/most_representative/140183.md) |
-| Award No. 48/06 | khmer | partly granted | [140706](unknown/most_representative/140706.md) |
-| Award No. 54/06 | khmer | dismissed | [140710](unknown/most_representative/140710.md) |
-| Award No. 68/06 | khmer | partly granted | [140723](unknown/most_representative/140723.md) |
-| Award No. 92/09 | khmer | dismissed | [140414](unknown/most_representative/140414.md) |
-
 ### interest dispute — 73 awards
 
 #### 2003 — 1
@@ -979,7 +974,7 @@ Filed by topic, then by year, then by award number.
 |---|---|---|---|
 | Award No. 14/03 | english | partly granted | [138831](2003/interest_dispute/138831.md) |
 
-#### 2004 — 8
+#### 2004 — 9
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -989,6 +984,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 28/03 | english | partly granted | [139285](2004/interest_dispute/139285.md) |
 | Award No. 29/04 | english | partly granted | [139310](2004/interest_dispute/139310.md) |
 | Award No. 30/04 | english | partly granted | [139312](2004/interest_dispute/139312.md) |
+| Award No. 31/03 | english | no jurisdiction | [138840](2004/interest_dispute/138840.md) |
 | Award No. 34/04 | english | dismissed | [139315](2004/interest_dispute/139315.md) |
 | Award No. 73/04 | english | partly granted | [139341](2004/interest_dispute/139341.md) |
 
@@ -998,10 +994,11 @@ Filed by topic, then by year, then by award number.
 |---|---|---|---|
 | Award No. 11/05 | english | partly granted | [140761](2005/interest_dispute/140761.md) |
 
-#### 2006 — 1
+#### 2006 — 2
 
 | award | language | outcome | brief |
 |---|---|---|---|
+| doc 140704 | khmer | partly granted | [140704](2006/interest_dispute/140704.md) |
 | Award No. 99/06 | khmer | partly granted | [140742](2006/interest_dispute/140742.md) |
 
 #### 2007 — 1
@@ -1109,13 +1106,6 @@ Filed by topic, then by year, then by award number.
 | Award No. 065/19 | khmer | dismissed | [139111](2019/interest_dispute/139111.md) |
 | Award No. 091/19 | khmer | partly granted | [139243](2019/interest_dispute/139243.md) |
 
-#### unknown — 2
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| doc 140704 | khmer | partly granted | [140704](unknown/interest_dispute/140704.md) |
-| Award No. 31/03 | english | no jurisdiction | [138840](unknown/interest_dispute/138840.md) |
-
 ### fixed term to indefinite — 347 awards
 
 #### 2003 — 4
@@ -1127,10 +1117,11 @@ Filed by topic, then by year, then by award number.
 | Award No. 17/03 | english | partly granted | [138830](2003/fixed_term_to_indefinite/138830.md) |
 | Award No. 25/03 | english | partly granted | [138832](2003/fixed_term_to_indefinite/138832.md) |
 
-#### 2004 — 17
+#### 2004 — 18
 
 | award | language | outcome | brief |
 |---|---|---|---|
+| Award No. 01/04 | english | partly granted | [138839](2004/fixed_term_to_indefinite/138839.md) |
 | Award No. 02/04 | english | partly granted | [138841](2004/fixed_term_to_indefinite/138841.md) |
 | Award No. 16/04 | english | partly granted | [139300](2004/fixed_term_to_indefinite/139300.md) |
 | Award No. 18/04 | english | partly granted | [139302](2004/fixed_term_to_indefinite/139302.md) |
@@ -1163,19 +1154,23 @@ Filed by topic, then by year, then by award number.
 | Award No. 34/05 | english | granted | [140779](2005/fixed_term_to_indefinite/140779.md) |
 | Award No. 64/05 | english | granted | [140796](2005/fixed_term_to_indefinite/140796.md) |
 
-#### 2006 — 12
+#### 2006 — 16
 
 | award | language | outcome | brief |
 |---|---|---|---|
 | Award No. 03/06 | english | granted | [140677](2006/fixed_term_to_indefinite/140677.md) |
 | Award No. 09/06 | english | partly granted | [140683](2006/fixed_term_to_indefinite/140683.md) |
 | Award No. 106/06 | khmer | partly granted | [140745](2006/fixed_term_to_indefinite/140745.md) |
+| doc 140705 | khmer | granted | [140705](2006/fixed_term_to_indefinite/140705.md) |
 | Award No. 24/06 | khmer | partly granted | [140695](2006/fixed_term_to_indefinite/140695.md) |
 | Award No. 32/06 | khmer | dismissed | [140697](2006/fixed_term_to_indefinite/140697.md) |
 | Award No. 33/06 | khmer | partly granted | [140699](2006/fixed_term_to_indefinite/140699.md) |
 | Award No. 36/06 | khmer | partly granted | [140700](2006/fixed_term_to_indefinite/140700.md) |
 | Award No. 38/06 | khmer | partly granted | [140701](2006/fixed_term_to_indefinite/140701.md) |
 | Award No. 43/06 | khmer | partly granted | [140702](2006/fixed_term_to_indefinite/140702.md) |
+| Award No. 49/06 | khmer | partly granted | [140708](2006/fixed_term_to_indefinite/140708.md) |
+| Award No. 73/06 | khmer | granted | [140722](2006/fixed_term_to_indefinite/140722.md) |
+| Award No. 76/06 | khmer | dismissed | [140724](2006/fixed_term_to_indefinite/140724.md) |
 | Award No. 81/06 | khmer | granted | [140728](2006/fixed_term_to_indefinite/140728.md) |
 | Award No. 93/06 | khmer | partly granted | [140737](2006/fixed_term_to_indefinite/140737.md) |
 | Award No. 96/06 | khmer | partly granted | [140740](2006/fixed_term_to_indefinite/140740.md) |
@@ -1569,16 +1564,6 @@ Filed by topic, then by year, then by award number.
 | award | language | outcome | brief |
 |---|---|---|---|
 | Award No. 009/24 | khmer | partly granted | [140885](2024/fixed_term_to_indefinite/140885.md) |
-
-#### unknown — 5
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| Award No. 01/04 | english | partly granted | [138839](unknown/fixed_term_to_indefinite/138839.md) |
-| doc 140705 | khmer | granted | [140705](unknown/fixed_term_to_indefinite/140705.md) |
-| Award No. 49/06 | khmer | partly granted | [140708](unknown/fixed_term_to_indefinite/140708.md) |
-| Award No. 73/06 | khmer | granted | [140722](unknown/fixed_term_to_indefinite/140722.md) |
-| Award No. 76/06 | khmer | dismissed | [140724](unknown/fixed_term_to_indefinite/140724.md) |
 
 ### union leader protection — 254 awards
 
@@ -1975,7 +1960,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 46/05 | english | dismissed | [140784](2005/wages_during_suspension/140784.md) |
 | Award No. 72/05 | english | partly granted | [140800](2005/wages_during_suspension/140800.md) |
 
-#### 2006 — 12
+#### 2006 — 13
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -1987,6 +1972,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 34/06 | khmer | dismissed | [140698](2006/wages_during_suspension/140698.md) |
 | Award No. 58/06 | khmer | dismissed | [140712](2006/wages_during_suspension/140712.md) |
 | Award No. 59/06 | khmer | granted | [140714](2006/wages_during_suspension/140714.md) |
+| Award No. 69/06 | khmer | dismissed | [140721](2006/wages_during_suspension/140721.md) |
 | Award No. 80/06 | khmer | dismissed | [140727](2006/wages_during_suspension/140727.md) |
 | Award No. 81/05 | english | partly granted | [140804](2006/wages_during_suspension/140804.md) |
 | Award No. 82/06 | khmer | partly granted | [140729](2006/wages_during_suspension/140729.md) |
@@ -2271,12 +2257,6 @@ Filed by topic, then by year, then by award number.
 |---|---|---|---|
 | Award No. 003/26 | khmer | partly granted | [140894](2026/wages_during_suspension/140894.md) |
 
-#### unknown — 1
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| Award No. 69/06 | khmer | dismissed | [140721](unknown/wages_during_suspension/140721.md) |
-
 ### severance pay — 39 awards
 
 #### 2004 — 1
@@ -2405,7 +2385,7 @@ Filed by topic, then by year, then by award number.
 |---|---|---|---|
 | Award No. 47/05 | english | withdrawn | [140786](2005/reinstatement/140786.md) |
 
-#### 2006 — 4
+#### 2006 — 5
 
 | award | language | outcome | brief |
 |---|---|---|---|
@@ -2413,6 +2393,7 @@ Filed by topic, then by year, then by award number.
 | Award No. 102/06 | khmer | dismissed | [140741](2006/reinstatement/140741.md) |
 | Award No. 103/06 | khmer | dismissed | [140743](2006/reinstatement/140743.md) |
 | Award No. 12/06 | khmer | granted | [140687](2006/reinstatement/140687.md) |
+| Award No. 50/06 | english | withdrawn | [140707](2006/reinstatement/140707.md) |
 
 #### 2007 — 2
 
@@ -2509,12 +2490,6 @@ Filed by topic, then by year, then by award number.
 | award | language | outcome | brief |
 |---|---|---|---|
 | Award No. 030/21 | khmer | granted | [140843](2021/reinstatement/140843.md) |
-
-#### unknown — 1
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| Award No. 50/06 | english | withdrawn | [140707](unknown/reinstatement/140707.md) |
 
 ### dismissal compensation — 4 awards
 
@@ -2627,6 +2602,12 @@ Filed by topic, then by year, then by award number.
 | Award No. 34/08 | english | withdrawn | [140495](2008/maternity/140495.md) |
 | Award No. 62/08 | english | withdrawn | [140514](2008/maternity/140514.md) |
 
+#### 2009 — 1
+
+| award | language | outcome | brief |
+|---|---|---|---|
+| Award No. 159/09 | khmer | granted | [140456](2009/maternity/140456.md) |
+
 #### 2010 — 4
 
 | award | language | outcome | brief |
@@ -2695,12 +2676,6 @@ Filed by topic, then by year, then by award number.
 | award | language | outcome | brief |
 |---|---|---|---|
 | Award No. 004/23 | khmer | dismissed | [140869](2023/maternity/140869.md) |
-
-#### unknown — 1
-
-| award | language | outcome | brief |
-|---|---|---|---|
-| Award No. 159/09 | khmer | granted | [140456](unknown/maternity/140456.md) |
 
 ### union dues — 18 awards
 

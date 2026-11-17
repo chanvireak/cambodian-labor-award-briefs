@@ -8,15 +8,15 @@ computed from the brief text, never estimated.
 | year of award | awards |
 |---|---|
 | 2003 | 10 |
-| 2004 | 74 |
+| 2004 | 76 |
 | 2005 | 51 |
-| 2006 | 62 |
+| 2006 | 72 |
 | 2007 | 87 |
 | 2008 | 100 |
-| 2009 | 119 |
+| 2009 | 122 |
 | 2010 | 110 |
 | 2011 | 128 |
-| 2012 | 168 |
+| 2012 | 169 |
 | 2013 | 193 |
 | 2014 | 225 |
 | 2015 | 240 |
@@ -47,8 +47,7 @@ computed from the brief text, never estimated.
 
 | language | awards |
 |---|---|
-| khmer | 1636 |
-| english | 423 |
+|  | 2059 |
 
 ### Issues per award
 
@@ -142,7 +141,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 53/05 | dismissed | The panel cannot order an employer to replace fixed-duration contracts with undetermined-duration contracts, because Article 65 and Decree No. 38 leav |
 | Award No. 59/05 | partly granted | A lay-off is a labour contract suspension and is unlawful unless it falls within Article 71 and has been authorised and controlled by the Labour Inspe |
 
-#### 2006 — 10
+#### 2006 — 13
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -150,11 +149,14 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 109/06 | dismissed | A monthly wage of $45 fixed by Article 104 and Declaration 017 is a flat monthly amount; the 26-day figure in Prakas 10 is only an average divisor for |
 | Award No. 11/06 | dismissed | A demand to raise a piece rate that already allows a worker of average skill to earn at least the minimum wage under Article 108 is an interest disput |
 | Award No. 20/06 | dismissed | The Labour Law does not oblige an employer to pay wages during sick leave certified by a doctor: Article 71(3) suspends the contract and Article 72(1) |
+| Award No. 48/06 | partly granted | An attendance bonus under Notification No. 017 is an incentive for regular attendance, not a sanction for lawful absence, so it must be reduced pro ra |
+| Award No. 54/06 | dismissed | Allocating shifts is part of the employer's right to organise and direct the enterprise under Article 2, and a demand that the employer rotate shifts  |
 | Award No. 56/06 | partly granted | A union that has not obtained most-representative status under Article 277 cannot bring a collective interest dispute, including a demand for contract |
 | Award No. 57/06 | partly granted | A fixed-duration contract whose renewals bring total service past two years becomes an indefinite contract, and floating workers averaging 21 days a m |
 | Award No. 60/06 | partly granted | An employer that suspends part of its production under Article 71(11) must notify and consult the labour inspector beforehand; if it does not, it owes |
 | Award No. 62/06 | partly granted | Dismissal of a union leader is unlawful discrimination only where the worker proves the employer acted because of union membership or activity; where  |
 | Award No. 64/06 | partly granted | Where an employer knows of a worker's serious misconduct but dismisses more than seven days later, Article 26 deems the right of dismissal waived and  |
+| Award No. 68/06 | partly granted | Dismissing a union's office-holders and founding members immediately after it is formed, and refusing to recognise the union, is discrimination contra |
 | Award No. 76/05 | partly granted | A worker delegate may be dismissed for misconduct only as a serious infraction defined by valid Internal Work Rules visaed by the Labour Inspector und |
 
 #### 2007 — 43
@@ -245,7 +247,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 80/08 | granted | An employer that has no work to give may reduce wages only by suspending the employment contracts through the procedure in Article 71(11) of the Labou |
 | Award No. 81/08 | dismissed | An employer may set section-specific incentive-bonus rates under its statutory power to manage and direct the enterprise, and such a differentiation i |
 
-#### 2009 — 42
+#### 2009 — 44
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -265,6 +267,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 141/09 | partly granted | A worker on overtime is entitled to a 1,000 riel meal allowance per day or a free meal, and no more; a demand above that figure is a dispute over inte |
 | Award No. 15/09 | granted | A contract suspension under Article 71(11) is lawful only if the Labour Inspector has been notified and has approved it; an employer that suspends imm |
 | Award No. 152/08 | dismissed | A demand for more than the law or an existing notification grants is a dispute over interests, and where the union bringing it holds only a minority o |
+| Award No. 155/09 | granted | Annual leave accrues by statute in steps of one day per three years of service; a flat cap for long-serving workers is unlawful . Voluntary work on a  |
 | Award No. 162/09 | partly granted | A temporary stoppage of work is a suspension requiring notification to and supervision by the labour inspector; without it the employer owes 100% of w |
 | Award No. 165/09 | partly granted | A certified sick absence suspends the contract but does not destroy the attendance bonus, which forms part of wages: the employer must reduce it in pr |
 | Award No. 18/09 | dismissed | An employer may reassign a worker to another section under its management right in Article 2 paragraph 2 of the Labour Law without the worker's consen |
@@ -288,6 +291,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 85/09 | partly granted | Where a union's existence is notified and its officers' names reach management shortly before a non-renewal and a dismissal, and the employer gives no |
 | Award No. 86/09 | partly granted | A union registered under Article 268 may appear before the panel, but only for the workers who are its members; where the claimant list includes non-m |
 | Award No. 89/09 | granted | An employer may move its workforce to another building inside the same establishment, and need not follow termination procedure, where the change leav |
+| Award No. 92/09 | dismissed | A demand beyond the floor set by a ministry notification, with no article or written agreement behind it, is an interest dispute rather than a rights  |
 | Award No. 93/09 | partly granted | An employer must deduct union dues from a member's wage and remit them to the union once the union produces the written authorisations and name list r |
 | Award No. 95/09 | partly granted | A long-standing benefit paid at a fixed rate becomes a past practice that binds the employer, but it may be terminated where the employer shows a genu |
 | Award No. 96/09 | dismissed | Where the Ministry of Labour has recognised a union's new leadership under Article 268 and Prakas No. 021, the employer cannot insist on a fresh regis |
@@ -401,7 +405,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 96/11 | partly granted | Where workers must eat in the rain because no canteen exists, Article 229 obliges the employer to build one, and six months is a reasonable deadline . |
 | Award No. 99/11 | dismissed | Workers cannot compel an employer to transfer or dismiss a supervisor or fellow worker merely because of abusive conduct; they must prove that the per |
 
-#### 2012 — 68
+#### 2012 — 69
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -442,6 +446,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 179/12 | dismissed | Where the same parties bring the same demand that a previous award has already decided on the merits, the panel will decline to reconsider it unless g |
 | Award No. 180/12 | partly granted | A worker who is a founder or member of a union whose registration is pending is protected like an employee representative, so dismissal without the la |
 | Award No. 181/12 | partly granted | A demand for an amount above the statutory floor fixed by ministerial notice is an interest dispute, which the panel will not decide unless the claima |
+| Award No. 182/12 | dismissed | Three rules emerge. First, a demand that the employer cease withholding tax is not a collective labour dispute within Article 302, because the obligat |
 | Award No. 183/12 | partly granted | An employer that ends a fixed-duration contract before its term, without proven serious misconduct and without the documentary evidence it was ordered |
 | Award No. 189/11 | partly granted | Where an award turns on a claim of misconduct justifying suspension, the employer carries the burden and must produce both the evidence of the specifi |
 | Award No. 203/12 | partly granted | Once a Ministry notification fixes an attendance bonus for a whole sector, the bonus is governed by the wage regime of Article 103 rather than by the  |
@@ -1063,17 +1068,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 |---|---|---|
 | Award No. 002/25 | dismissed | An employer may narrow the gate leaves used at shift breaks where a buyer's inspection found contamination and the restriction is tied to product qual |
 
-#### unknown — 6
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| Award No. 155/09 | granted | Annual leave accrues by statute in steps of one day per three years of service; a flat cap for long-serving workers is unlawful . Voluntary work on a  |
-| Award No. 182/12 | dismissed | Three rules emerge. First, a demand that the employer cease withholding tax is not a collective labour dispute within Article 302, because the obligat |
-| Award No. 48/06 | partly granted | An attendance bonus under Notification No. 017 is an incentive for regular attendance, not a sanction for lawful absence, so it must be reduced pro ra |
-| Award No. 54/06 | dismissed | Allocating shifts is part of the employer's right to organise and direct the enterprise under Article 2, and a demand that the employer rotate shifts  |
-| Award No. 68/06 | partly granted | Dismissing a union's office-holders and founding members immediately after it is formed, and refusing to recognise the union, is discrimination contra |
-| Award No. 92/09 | dismissed | A demand beyond the floor set by a ministry notification, with no article or written agreement behind it, is an interest dispute rather than a rights  |
-
 ### interest dispute — 73 awards
 
 #### 2003 — 1
@@ -1082,7 +1076,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 |---|---|---|
 | Award No. 14/03 | partly granted | An employer that warns an employee for serious misconduct instead of dismissing him does not act unlawfully that the panel will correct: Article 83(2) |
 
-#### 2004 — 8
+#### 2004 — 9
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -1092,6 +1086,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 28/03 | partly granted | An arbitral award settling an interest dispute replaces the CBA for one year, and where a hotel has collected a 10% service charge for years, Article  |
 | Award No. 29/04 | partly granted | Where an employer relocates for genuine economic reasons and the labour law imposes no transport obligation, the dispute is an interest dispute determ |
 | Award No. 30/04 | partly granted | Casual workers are entitled to the same rights and benefits as permanent workers under Art. 10, and a casual daily rate below the statutory minimum is |
+| Award No. 31/03 | no jurisdiction | A union that is neither registered under Article 277 of the Labour Law nor recognised as representative in the enterprise cannot bring an interests di |
 | Award No. 34/04 | dismissed | The panel has no power to order an employer to dismiss a worker at the union's demand, because termination is a right reserved to the parties to the e |
 | Award No. 73/04 | partly granted | Where the Ministry of Labour fails to answer a union registration application within the two months Article 268 allows, registration is granted automa |
 
@@ -1101,10 +1096,11 @@ Each award appears once, under the topic that most nearly describes what it deci
 |---|---|---|
 | Award No. 11/05 | partly granted | An employer must bear the cost of workers' medical checkups under Articles 247 and 274(C) of the Labor Law even before the Prakas contemplated by Arti |
 
-#### 2006 — 1
+#### 2006 — 2
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
+| doc 140704 | partly granted | An arbitration agreement signed by workers who are only candidates in an uncompleted union election does not bind the workers they claim to represent; |
 | Award No. 99/06 | partly granted | A union leader claiming the Article 293 protection must prove the union notified the employer of his protected status; absent that proof, his dismissa |
 
 #### 2007 — 1
@@ -1212,13 +1208,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 065/19 | dismissed | Where a ministerial instruction prescribes a divisor for computing the daily wage used in seniority indemnity, an employer who applies it exactly comm |
 | Award No. 091/19 | partly granted | Preserving a worker's labour rights when they attend a hearing, as Article 14 of Prakas No. 099 requires, includes preserving the weekly rest day that |
 
-#### unknown — 2
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| doc 140704 | partly granted | An arbitration agreement signed by workers who are only candidates in an uncompleted union election does not bind the workers they claim to represent; |
-| Award No. 31/03 | no jurisdiction | A union that is neither registered under Article 277 of the Labour Law nor recognised as representative in the enterprise cannot bring an interests di |
-
 ### fixed term to indefinite — 347 awards
 
 #### 2003 — 4
@@ -1230,10 +1219,11 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 17/03 | partly granted | An open-ended suspension of a shop steward, or any reassignment or shift change that effectively stops the steward performing his duties, is a violati |
 | Award No. 25/03 | partly granted | Where a MoSALVY notification is limited by its terms to one sector, the panel will not apply it directly to an enterprise outside that sector, but it  |
 
-#### 2004 — 17
+#### 2004 — 18
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
+| Award No. 01/04 | partly granted | An employer may suspend employment contracts only for a ground listed in Article 71 of the Labour Law; the absence of sufficient orders is not such a  |
 | Award No. 02/04 | partly granted | A fixed-duration contract that is renewed so that the total engagement exceeds two years becomes a contract of undetermined duration under Article 67. |
 | Award No. 16/04 | partly granted | A panel will not order the dismissal of a manager even where it finds the misconduct proved, because Article 65 leaves termination to the contracting  |
 | Award No. 18/04 | partly granted | Exceeding the 15-day period in Article 313 does not extinguish the Council's jurisdiction, and it may extend time on the claimant's reasonable request |
@@ -1266,19 +1256,23 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 34/05 | granted | Because Article 293 protects union leaders against dismissal, and dismissal means ending a contract still running, it does not require Labour Inspecto |
 | Award No. 64/05 | granted | Delegate protection for union leaders depends on the employer being informed of the candidacy by reliable means; where that is not proved, the dismiss |
 
-#### 2006 — 12
+#### 2006 — 16
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | Award No. 03/06 | granted | An employer that converts undetermined-duration contracts into fixed-duration contracts must obtain the workers' true and free agreement: it must stat |
 | Award No. 09/06 | partly granted | Where a union hands management an envelope identifying its leaders, election candidates and participants, and management refuses it or returns it unop |
 | Award No. 106/06 | partly granted | A short daily closure of toilet access, justified by the cleaning and inspection duties of Article 229 of the Labour Law and Prakas No. 52, is managem |
+| doc 140705 | granted | A worker's status is determined by the substance of the relationship, not the label the employer attaches: a person who works regularly under the empl |
 | Award No. 24/06 | partly granted | Dismissal on an indefinite contract is unlawful unless grounded in the worker's aptitude or conduct and proportionate to the employer's needs; where t |
 | Award No. 32/06 | dismissed | A demand for the Article 89 dismissal indemnity cannot be granted before any contract has been terminated: the indemnity arises only on termination by |
 | Award No. 33/06 | partly granted | A brief stand-up or sit-down by workers that states no demand and ends within minutes is not a strike under Article 318 and not serious misconduct und |
 | Award No. 36/06 | partly granted | Where fixed-duration contracts are renewed so that the aggregate duration exceeds two years, they become contracts of indefinite duration: Article 67( |
 | Award No. 38/06 | partly granted | Under Article 247(3)(c) of the 1997 Labour Law the employer must pay the cost of medical examinations, including those required before hiring, and tha |
 | Award No. 43/06 | partly granted | The Article 293 protection of a union leader or candidate depends on the union having notified the employer of the protected names by reliable means;  |
+| Award No. 49/06 | partly granted | An employer may not discipline a worker for taking part in a lawful strike, and even where a strike is unlawful any sanction must be proportionate to  |
+| Award No. 73/06 | granted | An employer that fills in a probation clause without informing the worker, on a form the worker never signed as a contract, creates no probation and n |
+| Award No. 76/06 | dismissed | Severance under Article 73(6) falls due when the employment relationship is severed, not each time a fixed-duration contract reaches its term; renewal |
 | Award No. 81/06 | granted | A claim by two dismissed union leaders in a factory of several hundred workers is not a collective labour dispute where their election was never notif |
 | Award No. 93/06 | partly granted | Repeated renewal of fixed-duration contracts beyond two years creates an indefinite-term contract under Article 67(2), and ending it requires written  |
 | Award No. 96/06 | partly granted | The 50% maternity wage is 50% of average total monthly wages over the last 12 months, counting seniority pay and attendance bonus, but the law does no |
@@ -1672,16 +1666,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | Award No. 009/24 | partly granted | An employer that observes the Article 75 minimum notice periods owes no notice indemnity under Article 77, and its failure to state a reason for termi |
-
-#### unknown — 5
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| Award No. 01/04 | partly granted | An employer may suspend employment contracts only for a ground listed in Article 71 of the Labour Law; the absence of sufficient orders is not such a  |
-| doc 140705 | granted | A worker's status is determined by the substance of the relationship, not the label the employer attaches: a person who works regularly under the empl |
-| Award No. 49/06 | partly granted | An employer may not discipline a worker for taking part in a lawful strike, and even where a strike is unlawful any sanction must be proportionate to  |
-| Award No. 73/06 | granted | An employer that fills in a probation clause without informing the worker, on a form the worker never signed as a contract, creates no probation and n |
-| Award No. 76/06 | dismissed | Severance under Article 73(6) falls due when the employment relationship is severed, not each time a fixed-duration contract reaches its term; renewal |
 
 ### union leader protection — 254 awards
 
@@ -2078,7 +2062,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 46/05 | dismissed | A labour contract suspension under Article 71(11) of the Labour Law is procedurally proper where the employer has requested the Labour Inspectorate's  |
 | Award No. 72/05 | partly granted | A labour contract suspension is lawful only from the date the Labour Inspector issues written authorisation, not from the date the employer applies, s |
 
-#### 2006 — 12
+#### 2006 — 13
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -2090,6 +2074,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 34/06 | dismissed | A panel will not arbitrate a collective dispute while the worker party is conducting a strike: Article 20 of Prakas No. 099 obliges the parties to sus |
 | Award No. 58/06 | dismissed | Workers cannot compel an employer to dismiss a manager or fellow worker unless they prove that person is dangerous and cannot be retained in the enter |
 | Award No. 59/06 | granted | Where the parties to a collective dispute persist in a strike or lockout during the panel's proceedings, in breach of the panel's orders and Article 2 |
+| Award No. 69/06 | dismissed | Wages are not payable for strike days because Article 332 suspends the employment contract for the duration of a strike, and that result does not depe |
 | Award No. 80/06 | dismissed | A collective stoppage to compel payment of overdue wages is a strike under Article 318 even where the workers do not call it one, and where it proceed |
 | Award No. 81/05 | partly granted | An internal rule that restricts a sick worker's medical certificate to a public hospital is void to the extent it falls below Article 71(3), which req |
 | Award No. 82/06 | partly granted | A short stoppage for lack of work is a suspension of the employment contract under Article 71(11) and is lawful only if placed under the Labour Inspec |
@@ -2374,12 +2359,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 |---|---|---|
 | Award No. 003/26 | partly granted | An employer that runs short of work may not discharge the resulting idle time by deducting workers' paid annual leave: annual leave may be fixed outsi |
 
-#### unknown — 1
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| Award No. 69/06 | dismissed | Wages are not payable for strike days because Article 332 suspends the employment contract for the duration of a strike, and that result does not depe |
-
 ### severance pay — 39 awards
 
 #### 2004 — 1
@@ -2508,7 +2487,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 |---|---|---|
 | Award No. 47/05 | withdrawn | Where the claiming party formally withdraws its demand before the hearing, the panel does not proceed to examine the merits and the case closes automa |
 
-#### 2006 — 4
+#### 2006 — 5
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -2516,6 +2495,7 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 102/06 | dismissed | Where a party has been properly notified and fails to appear without a valid reason, the panel may proceed or close the proceedings by award; an adjou |
 | Award No. 103/06 | dismissed | A dispute filed by a union is not automatically a collective labour dispute; it must satisfy all three conditions of Article 302, including that it ca |
 | Award No. 12/06 | granted | A dismissed worker's two-year priority right under Article 95 is lost only if the employer notifies him at his last known address by registered or han |
+| Award No. 50/06 | withdrawn | A strike staged during Arbitration Council proceedings, in breach of an interim order to return to work, is incompatible with Article 20 of Prakas No. |
 
 #### 2007 — 2
 
@@ -2612,12 +2592,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | Award No. 030/21 | granted | Prakas No. 054 SKBY obliges an employer to supply sufficient hygienic drinking water, not water at any particular temperature; a demand for hot-water  |
-
-#### unknown — 1
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| Award No. 50/06 | withdrawn | A strike staged during Arbitration Council proceedings, in breach of an interim order to return to work, is incompatible with Article 20 of Prakas No. |
 
 ### dismissal compensation — 4 awards
 
@@ -2730,6 +2704,12 @@ Each award appears once, under the topic that most nearly describes what it deci
 | Award No. 34/08 | withdrawn | Where a claimant union, properly notified of two successive hearings, fails to appear without good cause and gives no prior notice or request for post |
 | Award No. 62/08 | withdrawn | Where a demand rests on a legal entitlement but the claimant supplies no names, dates or amounts and does not answer an invitation to file further evi |
 
+#### 2009 — 1
+
+| award | outcome | ratio (excerpt) |
+|---|---|---|
+| Award No. 159/09 | granted | Maternity pay under Article 183 is half the wage including allowances, and Article 115(3) fixes its timing: because a worker on maternity leave is on  |
+
 #### 2010 — 4
 
 | award | outcome | ratio (excerpt) |
@@ -2798,12 +2778,6 @@ Each award appears once, under the topic that most nearly describes what it deci
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | Award No. 004/23 | dismissed | A worker who has already received the full 90 days of maternity allowance, or who has withdrawn her claim in writing, is not a proper claimant in a co |
-
-#### unknown — 1
-
-| award | outcome | ratio (excerpt) |
-|---|---|---|
-| Award No. 159/09 | granted | Maternity pay under Article 183 is half the wage including allowances, and Article 115(3) fixes its timing: because a worker on maternity leave is on  |
 
 ### union dues — 18 awards
 

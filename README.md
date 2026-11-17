@@ -31,7 +31,7 @@ of Cambodia; only structured notes about them are reproduced.
 | | |
 | --- | --- |
 | Briefs | 2059 |
-| Years | 2003–unknown (25 years) |
+| Years | 2003–2026 (24 years) |
 | Language | Khmer originals and English translations, each briefed separately |
 | Outcomes | granted 346, partly 983, withdrawn 118, no 108, dismissed 480 |
 | Pin cites | every brief carries at least 8, all resolved against its source |
