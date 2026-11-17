@@ -18,7 +18,7 @@ are welcome and expected.
 | Path | What it is |
 | --- | --- |
 | `briefs/<year>/<doc-id>.md` | One brief per award, filed by the year of the award. Six sections: facts, issues, positions, award and reasoning, ratio, source defects. |
-| `reports/index.md` | Every brief, filed by topic then year, with its award number and outcome. |
+| `reports/index/` | Browsable index: `by-year/` and `by-topic/`, one page per group, each linking to the brief. |
 | `reports/digest.md` | Cross-case digest: computed corpus tables, then every award by topic and year. |
 | `METHOD.md` | How the briefs were produced, the citation scheme, and the acceptance gates. |
 | `DISCLAIMER.md` | The full disclaimer in one place. |
