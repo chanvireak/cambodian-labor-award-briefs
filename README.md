@@ -1,6 +1,6 @@
 # Cambodian Labour Arbitration Award Briefs
 
-**AI-generated five-point case briefs of 2,059 Cambodian labour arbitration awards — research notes,
+**AI-generated five-point case briefs of Cambodian labour arbitration awards — research notes,
 not legal advice.** Written by an agent from the OCR'd Khmer and English originals of Arbitration Council
 awards. Corrections are welcome and expected.
 
