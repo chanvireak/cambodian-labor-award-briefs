@@ -42,5 +42,5 @@ the brief says so rather than inventing one.
 - 2,059 awards are briefed here, from a library of 2,078 documents; 3 were excluded as not-award or
   OCR-destroyed, and 16 are held back pending review.
 - Each `[Para N]` was machine-verified against its numbered source line.
-- All counts in `reports/digest.md` are computed from the brief text on every run; the argument in that
-  file is authored prose, kept in `reports/synthesis.md` and spliced in.
+- `reports/index.md` and `reports/digest.md` are generated on every run and filed by topic, then by year.
+  Every count in them is computed from the brief text; nothing is hand-maintained.

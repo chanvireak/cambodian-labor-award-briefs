@@ -18,8 +18,8 @@ are welcome and expected.
 | Path | What it is |
 | --- | --- |
 | `briefs/<year>/<doc-id>.md` | One brief per award, filed by the year of the award. Six sections: facts, issues, positions, award and reasoning, ratio, source defects. |
-| `reports/index.md` | Every brief with award number, year, language and outcome. |
-| `reports/digest.md` | Cross-case digest: computed corpus tables, doctrine threads, and the authored analysis. |
+| `reports/index.md` | Every brief, filed by topic then year, with its award number and outcome. |
+| `reports/digest.md` | Cross-case digest: computed corpus tables, then every award by topic and year. |
 | `METHOD.md` | How the briefs were produced, the citation scheme, and the acceptance gates. |
 | `DISCLAIMER.md` | The full disclaimer in one place. |
 
@@ -33,7 +33,7 @@ of Cambodia; only structured notes about them are reproduced.
 | Briefs | 2059 |
 | Years | 2003–unknown (25 years) |
 | Language | Khmer originals and English translations, each briefed separately |
-| Outcomes | granted 274, partly 983, no 112, withdrawn 85, dismissed 565 |
+| Outcomes | granted 346, partly 983, withdrawn 118, no 108, dismissed 480 |
 | Pin cites | every brief carries at least 8, all resolved against its source |
 
 ## How each brief is structured
