@@ -1,6 +1,6 @@
 # Cross-case digest
 
-2071 briefs · 24 years · 22 topics. Every count is computed from the brief text; nothing here is hand-maintained.
+2072 briefs · 24 years · 22 topics. Every count is computed from the brief text; nothing here is hand-maintained.
 
 - [Corpus shape](corpus.md) — years, outcomes, language, issues per award, doctrine tags
 - [By topic](by-topic/README.md) — one page per topic, awards grouped by year, with the ratio

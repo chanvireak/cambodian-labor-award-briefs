@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2071 briefs.
+Computed from 2072 briefs.
 
 ## Year of award
 
@@ -9,7 +9,7 @@ Computed from 2071 briefs.
 | 2003 | 10 |
 | 2004 | 76 |
 | 2005 | 53 |
-| 2006 | 76 |
+| 2006 | 77 |
 | 2007 | 87 |
 | 2008 | 102 |
 | 2009 | 123 |
@@ -38,7 +38,7 @@ Computed from 2071 briefs.
 | partly granted | 992 |
 | dismissed | 482 |
 | granted | 346 |
-| withdrawn | 118 |
+| withdrawn | 119 |
 | no jurisdiction | 109 |
 | other | 24 |
 
@@ -46,7 +46,7 @@ Computed from 2071 briefs.
 
 | language | awards |
 |---|---|
-|  | 2071 |
+|  | 2072 |
 
 ## Issues per award
 
@@ -64,7 +64,7 @@ Computed from 2071 briefs.
 | 19 | 1 |
 | 2 | 534 |
 | 3 | 335 |
-| 4 | 235 |
+| 4 | 236 |
 | 5 | 152 |
 | 6 | 124 |
 | 7 | 70 |
@@ -95,4 +95,4 @@ Computed from 2071 briefs.
 | dismissal_compensation | 159 |
 | union_dues | 135 |
 | occupational_safety | 120 |
-| night_work | 83 |
+| night_work | 84 |

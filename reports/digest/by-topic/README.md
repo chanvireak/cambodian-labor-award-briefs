@@ -9,7 +9,7 @@
 - [maternity](maternity.md) — 31
 - [meal allowance](meal_allowance.md) — 22
 - [most representative](most_representative.md) — 856
-- [night work](night_work.md) — 3
+- [night work](night_work.md) — 4
 - [notice pay](notice_pay.md) — 10
 - [nursery](nursery.md) — 2
 - [occupational safety](occupational_safety.md) — 4
