@@ -130,8 +130,9 @@ before anything else.
 ## Cost, and how to help pay for it
 
 Every brief is written by language models against a paid API. One award costs roughly **USD 0.02–0.06** to
-fetch, draft twice, edit, grade twice and revise. The whole corpus cost roughly **USD 90–130** to produce and
-costs about the same to re-run after a prompt change. New awards arrive at a few dollars a year.
+fetch, draft twice, edit, grade twice and revise — recent measured runs averaged about **USD 0.045**, so the
+2,068-award corpus cost on the order of **USD 90** to produce, and costs about the same to re-run after a
+prompt change. New awards arrive at a few dollars a year.
 
 **Contributing time is worth more than money.** One corrected brief is worth more than ten regenerated ones.
 If you still want to cover compute:

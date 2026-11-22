@@ -152,8 +152,9 @@ counts, that is expected; the maintainer's next publish corrects them.
 ## Funding
 
 Every brief costs real money: roughly **USD 0.02–0.06** per award for drafting twice, editing, grading twice
-and revising, and about **USD 90–130** to re-run the whole corpus after a prompt change. Contributing time is
-worth more than money — one corrected brief beats ten regenerated ones — but if you want to cover compute:
+and revising — about USD 0.045 measured, so on the order of **USD 90** for the whole 2,068-award corpus, and
+about the same again to re-run it after a prompt change. Contributing time is worth more than money — one
+corrected brief beats ten regenerated ones — but if you want to cover compute:
 
 - Open an issue titled `funding`, saying what you want to support (a year, a topic, a full refresh). The
   maintainer replies with the amount and a payment route. No funds are collected without a number and a stated
