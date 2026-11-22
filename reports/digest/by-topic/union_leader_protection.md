@@ -1,4 +1,4 @@
-# union leader protection — 255 awards
+# union leader protection — 256 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -168,10 +168,11 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 91/11](../../../briefs/2011/union_leader_protection/140052.md) | granted | A deputy worker representative (ប្រតិភូ ជំនួយ), as defined by Prakas No. 286, is a protected worker delegate under Article 293 of the Labour Law; an employer mu |
 | [Award No. 92/11](../../../briefs/2011/union_leader_protection/140055.md) | granted | A union leader or candidate who is dismissed inside the statutory protection window without the labour inspector's prior approval is entitled to reinstatement w |
 
-## 2012 — 13
+## 2012 — 14
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
+| [Award No. 109/12](../../../briefs/2012/union_leader_protection/140137.md) | dismissed | Where the same parties bring a dispute the panel has already decided on the merits in full, the panel may refuse to reconsider it, in order to avoid contradicto |
 | [Award No. 125/12](../../../briefs/2012/union_leader_protection/140146.md) | partly granted | A union leader's dismissal is unlawful, whatever the misconduct, unless the employer first obtains the labour inspector's agreement; where Article 295 permits a |
 | [Award No. 127/12](../../../briefs/2012/union_leader_protection/140147.md) | withdrawn | Where the worker party keeps striking after the case has been referred and after the panel has ordered the strike suspended, the panel will not continue the arb |
 | [Award No. 134/12](../../../briefs/2012/union_leader_protection/140150.md) | dismissed | A demand for a benefit that no law, collective agreement or agreement between the parties provides is a dispute over interests, which the panel will only adjudi |
