@@ -1,6 +1,6 @@
 # Index
 
-2072 briefs, 24 years, 22 topics.
+2073 briefs, 24 years, 22 topics.
 
 - [By year](by-year/README.md) — one page per year of award
 - [By topic](by-topic/README.md) — one page per topic

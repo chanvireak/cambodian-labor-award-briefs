@@ -1,4 +1,4 @@
-# union leader protection — 257 awards
+# union leader protection — 258 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -55,13 +55,14 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 79/06](../../../briefs/2006/union_leader_protection/140726.md) | granted | The Council will not order an employer to dismiss a worker, because termination is the employer's contractual prerogative and the Labour Law merely permits rath |
 | [Award No. 89/06](../../../briefs/2006/union_leader_protection/140734.md) | partly granted | A conciliation settlement signed by the parties and endorsed by the conciliator is binding as a collective agreement under Article 307, and the absence of a com |
 
-## 2007 — 10
+## 2007 — 11
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | [Award No. 09/07](../../../briefs/2007/union_leader_protection/140582.md) | dismissed | Suspension of a labour contract under Article 72(1) extinguishes the wage obligation, and an employer's duty to provide accommodation during suspension subsists |
 | [Award No. 110/07](../../../briefs/2007/union_leader_protection/140650.md) | partly granted | An employer that stops giving work without suspending the labour contracts in the manner and under the supervision required by Article 71(11) remains bound to p |
 | [Award No. 114/06](../../../briefs/2007/union_leader_protection/140749.md) | no jurisdiction | A dismissal of alleged union leaders is a collective labour dispute only if the union is lawfully registered, the workers can prove their protected status with  |
+| [Award No. 119/06](../../../briefs/2007/union_leader_protection/140758.md) | partly granted | Under Article 71(11) of the Labour Law, contract suspension is lawful only for serious economic or material difficulty halting the enterprise, for at most two m |
 | [Award No. 134/07](../../../briefs/2007/union_leader_protection/140667.md) | withdrawn | A parent federation cannot settle a local union's collective dispute without a written authorisation from that local union, and where the local union itself fai |
 | [Award No. 14/07](../../../briefs/2007/union_leader_protection/140586.md) | partly granted | A transfer to wholly different work breaches the employment contract, and the remedy is return to the original post, where it strips the worker of the trade the |
 | [Award No. 20/07](../../../briefs/2007/union_leader_protection/140592.md) | withdrawn | A union federation cannot represent a local union and its worker members before the Arbitration Council without written authorisation from those parties, whatev |

@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2072 briefs.
+Computed from 2073 briefs.
 
 ## Year of award
 
@@ -10,7 +10,7 @@ Computed from 2072 briefs.
 | 2004 | 76 |
 | 2005 | 53 |
 | 2006 | 77 |
-| 2007 | 87 |
+| 2007 | 88 |
 | 2008 | 102 |
 | 2009 | 123 |
 | 2010 | 110 |
@@ -35,7 +35,7 @@ Computed from 2072 briefs.
 
 | outcome | awards |
 |---|---|
-| partly granted | 992 |
+| partly granted | 993 |
 | dismissed | 482 |
 | granted | 346 |
 | withdrawn | 119 |
@@ -46,7 +46,7 @@ Computed from 2072 briefs.
 
 | language | awards |
 |---|---|
-|  | 2072 |
+|  | 2073 |
 
 ## Issues per award
 
@@ -62,7 +62,7 @@ Computed from 2072 briefs.
 | 16 | 2 |
 | 17 | 2 |
 | 19 | 1 |
-| 2 | 534 |
+| 2 | 535 |
 | 3 | 335 |
 | 4 | 236 |
 | 5 | 152 |
@@ -77,9 +77,9 @@ Computed from 2072 briefs.
 |---|---|
 | most_representative | 856 |
 | strike | 722 |
-| reinstatement | 708 |
-| wages_during_suspension | 699 |
-| union_leader_protection | 676 |
+| reinstatement | 709 |
+| wages_during_suspension | 700 |
+| union_leader_protection | 677 |
 | interest_dispute | 670 |
 | overtime | 660 |
 | attendance_bonus | 611 |

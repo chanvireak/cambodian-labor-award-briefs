@@ -20,5 +20,5 @@
 - [severance pay](severance_pay.md) — 39
 - [strike](strike.md) — 11
 - [union dues](union_dues.md) — 18
-- [union leader protection](union_leader_protection.md) — 257
+- [union leader protection](union_leader_protection.md) — 258
 - [wages during suspension](wages_during_suspension.md) — 220
