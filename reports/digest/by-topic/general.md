@@ -1,4 +1,4 @@
-# general — 53 awards
+# general — 54 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -8,11 +8,12 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 |---|---|---|
 | [Award No. 87/04](../../../briefs/2004/general/139348.md) | dismissed | A demand that an employer dismiss a supervisor or fellow employee will be rejected unless the workers prove that the person is dangerous and can no longer be pe |
 
-## 2006 — 7
+## 2006 — 8
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | [Award No. 14/06](../../../briefs/2006/general/140686.md) | partly granted | Where a piece-rate practice has fixed itself over years — here one table of white pockets every three days, uncounted — it becomes a term of the verbal contract |
+| [Award No. 21/06](../../../briefs/2006/general/140691.md) | dismissed | When a party verbally withdraws an issue at the hearing and that withdrawal is recorded, the panel may treat the issue as disposed of and dismiss the referral t |
 | [Award No. 30/06](../../../briefs/2006/general/140696.md) | partly granted | An employer may set and revise piece rates, but a rate that does not let a worker of average skill earn at least the statutory minimum wage in normal hours is u |
 | [Award No. 67/06](../../../briefs/2006/general/140718.md) | dismissed | Workers cannot compel an employer to dismiss a supervisor or fellow employee; the demand succeeds only where concrete evidence shows the person is dangerous and |
 | [Award No. 79/05](../../../briefs/2006/general/140803.md) | granted | An employer that obtains employment books in bulk for its workers may recover only the official fee fixed by Notification 013/97 and Joint Prakas 147/01, and an |

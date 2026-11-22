@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2070 briefs.
+Computed from 2071 briefs.
 
 ## Year of award
 
@@ -9,7 +9,7 @@ Computed from 2070 briefs.
 | 2003 | 10 |
 | 2004 | 76 |
 | 2005 | 53 |
-| 2006 | 75 |
+| 2006 | 76 |
 | 2007 | 87 |
 | 2008 | 102 |
 | 2009 | 123 |
@@ -36,7 +36,7 @@ Computed from 2070 briefs.
 | outcome | awards |
 |---|---|
 | partly granted | 992 |
-| dismissed | 481 |
+| dismissed | 482 |
 | granted | 346 |
 | withdrawn | 118 |
 | no jurisdiction | 109 |
@@ -46,7 +46,7 @@ Computed from 2070 briefs.
 
 | language | awards |
 |---|---|
-|  | 2070 |
+|  | 2071 |
 
 ## Issues per award
 
@@ -63,7 +63,7 @@ Computed from 2070 briefs.
 | 17 | 2 |
 | 19 | 1 |
 | 2 | 534 |
-| 3 | 334 |
+| 3 | 335 |
 | 4 | 235 |
 | 5 | 152 |
 | 6 | 124 |

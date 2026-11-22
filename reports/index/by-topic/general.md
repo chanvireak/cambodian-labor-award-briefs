@@ -1,4 +1,4 @@
-# general — 53 awards
+# general — 54 awards
 
 Filed by year: see [by year](../by-year/README.md).
 
@@ -6,6 +6,7 @@ Filed by year: see [by year](../by-year/README.md).
 |---|---|---|---|---|
 | Award No. 87/04 | 2004 | dismissed |  | [139348](../../../briefs/2004/general/139348.md) |
 | Award No. 14/06 | 2006 | partly granted |  | [140686](../../../briefs/2006/general/140686.md) |
+| Award No. 21/06 | 2006 | dismissed |  | [140691](../../../briefs/2006/general/140691.md) |
 | Award No. 30/06 | 2006 | partly granted |  | [140696](../../../briefs/2006/general/140696.md) |
 | Award No. 67/06 | 2006 | dismissed |  | [140718](../../../briefs/2006/general/140718.md) |
 | Award No. 79/05 | 2006 | granted |  | [140803](../../../briefs/2006/general/140803.md) |

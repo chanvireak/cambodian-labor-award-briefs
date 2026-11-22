@@ -4,7 +4,7 @@
 - [attendance bonus](attendance_bonus.md) — 29
 - [dismissal compensation](dismissal_compensation.md) — 4
 - [fixed term to indefinite](fixed_term_to_indefinite.md) — 349
-- [general](general.md) — 53
+- [general](general.md) — 54
 - [interest dispute](interest_dispute.md) — 73
 - [maternity](maternity.md) — 31
 - [meal allowance](meal_allowance.md) — 22
