@@ -1,4 +1,4 @@
-# most representative — 856 awards
+# most representative — 857 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -20,7 +20,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 98/04](../../../briefs/2004/most_representative/139355.md) | partly granted | The cost of the pre-employment medical examination lies on the employer under Article 247 of the Labour Law even where the worker has already paid the clinic, a |
 | [Award No. 99/04](../../../briefs/2004/most_representative/139356.md) | partly granted | Where an employer has at least one hundred women workers, Article 186 obliges it to provide a nursing room and day care centre or to pay the invoiced cost of ou |
 
-## 2005 — 14
+## 2005 — 15
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -31,6 +31,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 13/05](../../../briefs/2005/most_representative/140763.md) | partly granted | An employer must reimburse workers the cost of their medical examinations under Article 247 of the Labour Law and Article 7 of Prakas 9/94, and the doubt cast o |
 | [Award No. 16/05](../../../briefs/2005/most_representative/140766.md) | partly granted | An employer cannot dismiss a union leader without prior authorisation from the labour inspector under Article 293, and the employer's knowledge that the union c |
 | [Award No. 24/05](../../../briefs/2005/most_representative/140773.md) | partly granted | A union without most representative status under Article 277 of the Labour Law cannot bring an interests dispute to the Arbitration Council, because an award on |
+| [Award No. 27/05](../../../briefs/2005/most_representative/140776.md) | no jurisdiction | A rights dispute requires an accusation of an actual existing violation supported by evidence; a prospective wage claim is outside the panel's jurisdiction . A  |
 | [Award No. 29/05](../../../briefs/2005/most_representative/140774.md) | partly granted | An oral fixed-duration contract is of unspecified duration under Article 74, so dismissal requires a valid reason of aptitude or behaviour, and a worker's inqui |
 | [Award No. 41/05](../../../briefs/2005/most_representative/140783.md) | partly granted | A registered internal rule expressly governing an attendance bonus displaces the equity-based approach used where the law, notification and rules are silent . E |
 | [Award No. 42/05](../../../briefs/2005/most_representative/140782.md) | dismissed | A demand that an employer refrain from cutting a bonus on a contingency that has not yet happened is a rights dispute about the future, which the panel will not |

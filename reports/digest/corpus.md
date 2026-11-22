@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2073 briefs.
+Computed from 2074 briefs.
 
 ## Year of award
 
@@ -8,7 +8,7 @@ Computed from 2073 briefs.
 |---|---|
 | 2003 | 10 |
 | 2004 | 76 |
-| 2005 | 53 |
+| 2005 | 54 |
 | 2006 | 77 |
 | 2007 | 88 |
 | 2008 | 102 |
@@ -39,14 +39,14 @@ Computed from 2073 briefs.
 | dismissed | 482 |
 | granted | 346 |
 | withdrawn | 119 |
-| no jurisdiction | 109 |
+| no jurisdiction | 110 |
 | other | 24 |
 
 ## Language of the award
 
 | language | awards |
 |---|---|
-|  | 2073 |
+|  | 2074 |
 
 ## Issues per award
 
@@ -63,7 +63,7 @@ Computed from 2073 briefs.
 | 17 | 2 |
 | 19 | 1 |
 | 2 | 535 |
-| 3 | 335 |
+| 3 | 336 |
 | 4 | 236 |
 | 5 | 152 |
 | 6 | 124 |
@@ -75,17 +75,17 @@ Computed from 2073 briefs.
 
 | tag | awards |
 |---|---|
-| most_representative | 856 |
+| most_representative | 857 |
 | strike | 722 |
 | reinstatement | 709 |
-| wages_during_suspension | 700 |
+| wages_during_suspension | 701 |
 | union_leader_protection | 677 |
 | interest_dispute | 670 |
 | overtime | 660 |
 | attendance_bonus | 611 |
 | fixed_term_to_indefinite | 591 |
 | meal_allowance | 574 |
-| annual_leave | 536 |
+| annual_leave | 537 |
 | seniority_bonus | 441 |
 | severance_pay | 420 |
 | maternity | 255 |

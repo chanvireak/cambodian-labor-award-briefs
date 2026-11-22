@@ -1,4 +1,4 @@
-# most representative — 856 awards
+# most representative — 857 awards
 
 Filed by year: see [by year](../by-year/README.md).
 
@@ -24,6 +24,7 @@ Filed by year: see [by year](../by-year/README.md).
 | Award No. 13/05 | 2005 | partly granted |  | [140763](../../../briefs/2005/most_representative/140763.md) |
 | Award No. 16/05 | 2005 | partly granted |  | [140766](../../../briefs/2005/most_representative/140766.md) |
 | Award No. 24/05 | 2005 | partly granted |  | [140773](../../../briefs/2005/most_representative/140773.md) |
+| Award No. 27/05 | 2005 | no jurisdiction |  | [140776](../../../briefs/2005/most_representative/140776.md) |
 | Award No. 29/05 | 2005 | partly granted |  | [140774](../../../briefs/2005/most_representative/140774.md) |
 | Award No. 41/05 | 2005 | partly granted |  | [140783](../../../briefs/2005/most_representative/140783.md) |
 | Award No. 42/05 | 2005 | dismissed |  | [140782](../../../briefs/2005/most_representative/140782.md) |
