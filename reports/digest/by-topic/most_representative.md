@@ -1,4 +1,4 @@
-# most representative — 852 awards
+# most representative — 856 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -20,7 +20,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 98/04](../../../briefs/2004/most_representative/139355.md) | partly granted | The cost of the pre-employment medical examination lies on the employer under Article 247 of the Labour Law even where the worker has already paid the clinic, a |
 | [Award No. 99/04](../../../briefs/2004/most_representative/139356.md) | partly granted | Where an employer has at least one hundred women workers, Article 186 obliges it to provide a nursing room and day care centre or to pay the invoiced cost of ou |
 
-## 2005 — 12
+## 2005 — 14
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -32,12 +32,14 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 16/05](../../../briefs/2005/most_representative/140766.md) | partly granted | An employer cannot dismiss a union leader without prior authorisation from the labour inspector under Article 293, and the employer's knowledge that the union c |
 | [Award No. 24/05](../../../briefs/2005/most_representative/140773.md) | partly granted | A union without most representative status under Article 277 of the Labour Law cannot bring an interests dispute to the Arbitration Council, because an award on |
 | [Award No. 29/05](../../../briefs/2005/most_representative/140774.md) | partly granted | An oral fixed-duration contract is of unspecified duration under Article 74, so dismissal requires a valid reason of aptitude or behaviour, and a worker's inqui |
+| [Award No. 41/05](../../../briefs/2005/most_representative/140783.md) | partly granted | A registered internal rule expressly governing an attendance bonus displaces the equity-based approach used where the law, notification and rules are silent . E |
 | [Award No. 42/05](../../../briefs/2005/most_representative/140782.md) | dismissed | A demand that an employer refrain from cutting a bonus on a contingency that has not yet happened is a rights dispute about the future, which the panel will not |
+| [Award No. 45/05](../../../briefs/2005/most_representative/140785.md) | partly granted | A union without most representative status cannot bring an interest dispute seeking benefits beyond statutory minimums, because an award settling an interest di |
 | [Award No. 49/05](../../../briefs/2005/most_representative/140787.md) | dismissed | A union without most representative status in the enterprise cannot bring an interest dispute to the Arbitration Council, because an award on such a dispute wou |
 | [Award No. 53/05](../../../briefs/2005/most_representative/140790.md) | dismissed | The panel cannot order an employer to replace fixed-duration contracts with undetermined-duration contracts, because Article 65 and Decree No. 38 leave the form |
 | [Award No. 59/05](../../../briefs/2005/most_representative/140792.md) | partly granted | A lay-off is a labour contract suspension and is unlawful unless it falls within Article 71 and has been authorised and controlled by the Labour Inspector, so a |
 
-## 2006 — 13
+## 2006 — 14
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -54,6 +56,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 64/06](../../../briefs/2006/most_representative/140720.md) | partly granted | Where an employer knows of a worker's serious misconduct but dismisses more than seven days later, Article 26 deems the right of dismissal waived and the worker |
 | [Award No. 68/06](../../../briefs/2006/most_representative/140723.md) | partly granted | Dismissing a union's office-holders and founding members immediately after it is formed, and refusing to recognise the union, is discrimination contrary to Arti |
 | [Award No. 76/05](../../../briefs/2006/most_representative/140801.md) | partly granted | A worker delegate may be dismissed for misconduct only as a serious infraction defined by valid Internal Work Rules visaed by the Labour Inspector under Article |
+| [Award No. 84/06](../../../briefs/2006/most_representative/140731.md) | dismissed | A union lacking most-representative status under Article 277 of the 1997 Labour Law and Prakas No. 305 dated 05 November 2001 has no standing to bring an intere |
 
 ## 2007 — 43
 
@@ -117,7 +120,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 117/08](../../../briefs/2008/most_representative/140555.md) | partly granted | A union that does not represent more than half the workforce is not the most representative union and cannot bring an interests dispute — a demand exceeding wha |
 | [Award No. 121/08](../../../briefs/2008/most_representative/140557.md) | partly granted | Where the internal regulations grant full wages for the first month of certified illness without saying whether the attendance bonus is included, the bonus is n |
 | [Award No. 134/08](../../../briefs/2008/most_representative/140562.md) | partly granted | Where a demand seeks a benefit the law does not itself provide, it is a collective-interest dispute, and a panel will not decide it unless the claimant union ho |
-| [Award No. 135/07](../../../briefs/2008/most_representative/140666.md) | dismissed | A demand for more than a Ministry notification guarantees — a higher attendance bonus, meal allowance or seniority increment — is an interests demand, and the p |
+| [Award No. 135/07](../../../briefs/2008/most_representative/140666.md) | dismissed | A demand exceeding the benefits fixed by law, Prakas or Notification — and not agreed by the parties — is an interests demand, and the panel will decline to con |
 | [Award No. 139/08](../../../briefs/2008/most_representative/140565.md) | partly granted | A statutory living allowance expressed as payable "without any conditions" is not reduced by maternity leave, and any lesser sum already paid must be made up. M |
 | [Award No. 14/08](../../../briefs/2008/most_representative/140485.md) | dismissed | Severance under Article 73, paragraph 6, of the Labour Law falls due only when a fixed-duration contract ends and with it the employment relationship: where the |
 | [doc 140489](../../../briefs/2008/most_representative/140489.md) | granted | A fixed-duration contract that is renewed repeatedly becomes an undetermined-duration contract once the total of its renewals passes two years; an employer cann |
@@ -246,7 +249,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 98/10](../../../briefs/2010/most_representative/140308.md) | partly granted | Where an employer renews successive fixed-term contracts so that their aggregate duration exceeds two years, the contract becomes one of indefinite duration by  |
 | [Award No. 99/10](../../../briefs/2010/most_representative/140310.md) | partly granted | A union that does not hold a most-representative certificate cannot bring an interests dispute — a demand for a benefit the law does not require, such as a hous |
 
-## 2011 — 50
+## 2011 — 51
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -267,6 +270,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 140/11](../../../briefs/2011/most_representative/140088.md) | partly granted | A panel will refuse to consider interest disputes brought by a union that is not the most representative in the enterprise, while still deciding rights disputes |
 | [Award No. 141/11](../../../briefs/2011/most_representative/140089.md) | partly granted | Whether a meal allowance claim is a rights or an interest dispute turns on its source: where a Notification fixes the amount, as Notification 041/11 does for ov |
 | [Award No. 142/10](../../../briefs/2011/most_representative/140346.md) | dismissed | An employer may relocate its factory, and require the workforce to move with it, as an exercise of its lawful management right, so long as the move does not cut |
+| [Award No. 144/11](../../../briefs/2011/most_representative/140093.md) | partly granted | Where a fixed-term employment contract is renewed without interruption, the worker’s seniority continues to accrue, and the payment of the statutory 5% end-of-c |
 | [Award No. 145/11](../../../briefs/2011/most_representative/140090.md) | partly granted | A registered union is entitled under the 1998 circular to suitable space to post its leaders' names, photographs and functions and its activities, and an employ |
 | [Award No. 15/11](../../../briefs/2011/most_representative/139978.md) | partly granted | An employer's probationary practice is unlawful whatever it pays: where the work is specialised, probation may not exceed two months, and a uniform three-month  |
 | [Award No. 151/11](../../../briefs/2011/most_representative/140095.md) | partly granted | An employer may direct which lot and which work a worker performs, and a worker's disagreement over the piece rate for that work is not a lawful ground for refu |
@@ -320,6 +324,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 114/12](../../../briefs/2012/most_representative/140142.md) | dismissed | A demand that in substance asks the panel to enforce an earlier award to which a party has lawfully objected is not a fresh rights dispute: Article 40 of Prakas |
 | [Award No. 12/12](../../../briefs/2012/most_representative/139943.md) | partly granted | Wages are not payable for days of strike, whether the strike is lawful or unlawful, because Art. 332 suspends the contract; and a demand for an allowance that n |
 | [Award No. 132/12](../../../briefs/2012/most_representative/140151.md) | partly granted | A demand that goes beyond what the Labour Law, a collective agreement or an agreement between the parties provides is a dispute over interests; because an inter |
+| [doc 139976](../../../briefs/2012/most_representative/139976.md) | partly granted | A dispute is a rights dispute when the claimed entitlement has a basis in law, an agreement or a collective agreement; absent such a basis, it is an interests d |
 | [Award No. 14/12](../../../briefs/2012/most_representative/139944.md) | partly granted | A benefit paid regularly, identically and over many years becomes a past practice binding the employer, and may be withdrawn only with the agreement of the work |
 | [Award No. 143/12](../../../briefs/2012/most_representative/140156.md) | partly granted | Where an employer imposes, for a customer's hygiene standard, a requirement that workers wear a separate pair of shoes inside the production room, the employer  |
 | [Award No. 145/12](../../../briefs/2012/most_representative/140158.md) | partly granted | An employer may set paid special leave for a family death against annual leave already accrued, but may not deduct it from a future year's leave; the only permi |
@@ -364,7 +369,6 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 34/12](../../../briefs/2012/most_representative/139960.md) | partly granted | Where an employer authorises an absence, the contract is suspended: the daily wage may be withheld, but a regular-attendance bonus, being wages under Article 10 |
 | [Award No. 41/12](../../../briefs/2012/most_representative/139970.md) | dismissed | A demand that has no basis in the Labour Law, an agreement or a collective agreement is an interests dispute, and because an award on an interests dispute opera |
 | [Award No. 42/12](../../../briefs/2012/most_representative/139972.md) | partly granted | An attendance bonus that a notification fixes at a minimum monthly sum is a gratuity and so part of wages under Article 103; because authorised sick leave suppo |
-| [Award No. 45/12](../../../briefs/2012/most_representative/139976.md) | partly granted | A statutory entitlement may not be reduced by an agreement, however widely signed: where an employer suspends work for lack of orders without notifying the Labo |
 | [Award No. 46/12](../../../briefs/2012/most_representative/139980.md) | partly granted | Annual leave is a right to actual rest, not a deferred cash entitlement: an employer that pays leave out month by month and never lets workers take it contraven |
 | [Award No. 48/12](../../../briefs/2012/most_representative/139979.md) | granted | Non-renewal of a fixed duration contract at its expiry is not a dismissal, and a union alleging that such non-renewal is anti-union discrimination must prove it |
 | [Award No. 50/12](../../../briefs/2012/most_representative/139981.md) | partly granted | A union without most representative status lacks legal standing to bring an interests dispute concerning collective interests before the Arbitration Council; su |
@@ -560,7 +564,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 281/13](../../../briefs/2014/most_representative/139927.md) | dismissed | A demand for a benefit exceeding what statute, collective agreement or established practice already provides is an interest dispute, and the panel will decline  |
 | [Award No. 282/13](../../../briefs/2014/most_representative/139929.md) | partly granted | Work on a public holiday is not overtime: it earns the extra day's wage provided by Article 164 and Prakas No. 10, so meal money conditioned on overtime is not  |
 | [Award No. 283/14](../../../briefs/2014/most_representative/139742.md) | granted | The prohibition in Articles 12 and 279 of the Labour Law on using union membership or union activity as a ground for decisions about a worker's employment cover |
-| [Award No. 285/14](../../../briefs/2014/most_representative/139745.md) | dismissed | A claim for a benefit that no law, collective agreement, internal rule, contract or established practice provides is an interest dispute, and an interest disput |
+| [Award No. 285/14](../../../briefs/2014/most_representative/139745.md) | granted | A wage-continuation claim based on strike intimidation requires proof of the particular workers, dates and threats; general assertions do not discharge the clai |
 | [Award No. 287/14](../../../briefs/2014/most_representative/139746.md) | dismissed | An attendance premium is a conditional reward, not base wage, so it is not apportioned day by day: where the instrument creating it fixes a stepped forfeiture,  |
 | [Award No. 299/14](../../../briefs/2014/most_representative/139750.md) | dismissed | A demand for a benefit above what the Labour Law, a collective agreement, internal rules or established practice already secures is an interest dispute, and the |
 | [Award No. 307/14](../../../briefs/2014/most_representative/139755.md) | partly granted | A demand for a benefit above the minimum fixed by a Prakas or a ministerial notification is an interest dispute, and the panel will decline to hear it unless it |
@@ -826,7 +830,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 017/18](../../../briefs/2018/most_representative/138889.md) | partly granted | A panel will not order an employer to dismiss or transfer a co-worker at the workforce's request: Article 2 of the Labour Law leaves the organisation of the ent |
 | [Award No. 018/18](../../../briefs/2018/most_representative/138894.md) | partly granted | A claim for a wage or benefit above the statutory floor is a dispute of interests, and where the enterprise has no union holding a live most-representative cert |
 | [Award No. 019/18](../../../briefs/2018/most_representative/138895.md) | partly granted | Where an employer terminates a union officer before the labour inspector has authorised the termination, the dismissal is unlawful under Article 43 of the Trade |
-| [Award No. 020/18](../../../briefs/2018/most_representative/138824.md) | partly granted | Where a fixed duration contract expires and the employer continues the same worker on an undetermined duration contract with no break in the employment relation |
+| [Award No. 020/18](../../../briefs/2018/most_representative/138824.md) | partly granted | Under Article 73 of the Labour Law, replacing a fixed-term contract with an undetermined-term contract without breaking the employment relationship does not tri |
 | [Award No. 021/18](../../../briefs/2018/most_representative/138897.md) | granted | A fixed-term collective agreement does not renew by tacit continuation where a party has given notice rejecting it at least three months before expiry, as Artic |
 | [Award No. 022/18](../../../briefs/2018/most_representative/138901.md) | partly granted | Where successive fixed-duration contracts bring total service past two years the contract is indefinite-duration and can only end by dismissal for a reason Arti |
 | [Award No. 024/18](../../../briefs/2018/most_representative/138903.md) | partly granted | A change of owner or of the employer's legal status does not by itself entitle workers to immediate payment of termination entitlements, but the incoming employ |

@@ -92,5 +92,5 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
-| [Award No. 004/25](../../../briefs/2025/meal_allowance/140893.md) | dismissed | Targets and incentive schemes that the Labour Law does not regulate are within the employer's managerial power under Article 2, and the panel will not fix them  |
+| [Award No. 004/25](../../../briefs/2025/meal_allowance/140893.md) | dismissed |  |
 

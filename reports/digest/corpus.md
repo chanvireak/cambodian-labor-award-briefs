@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2059 briefs.
+Computed from 2068 briefs.
 
 ## Year of award
 
@@ -8,14 +8,14 @@ Computed from 2059 briefs.
 |---|---|
 | 2003 | 10 |
 | 2004 | 76 |
-| 2005 | 51 |
-| 2006 | 72 |
+| 2005 | 53 |
+| 2006 | 75 |
 | 2007 | 87 |
-| 2008 | 100 |
+| 2008 | 102 |
 | 2009 | 122 |
 | 2010 | 110 |
-| 2011 | 128 |
-| 2012 | 169 |
+| 2011 | 129 |
+| 2012 | 170 |
 | 2013 | 193 |
 | 2014 | 225 |
 | 2015 | 240 |
@@ -35,19 +35,18 @@ Computed from 2059 briefs.
 
 | outcome | awards |
 |---|---|
-| partly granted | 983 |
+| partly granted | 991 |
 | dismissed | 480 |
 | granted | 346 |
 | withdrawn | 118 |
-| no jurisdiction | 108 |
+| no jurisdiction | 109 |
 | other | 24 |
 
 ## Language of the award
 
 | language | awards |
 |---|---|
-| khmer | 1636 |
-| english | 423 |
+|  | 2068 |
 
 ## Issues per award
 
@@ -64,11 +63,11 @@ Computed from 2059 briefs.
 | 17 | 2 |
 | 19 | 1 |
 | 2 | 534 |
-| 3 | 335 |
-| 4 | 231 |
-| 5 | 148 |
-| 6 | 121 |
-| 7 | 69 |
+| 3 | 334 |
+| 4 | 234 |
+| 5 | 151 |
+| 6 | 124 |
+| 7 | 70 |
 | 8 | 64 |
 | 9 | 33 |
 
@@ -76,24 +75,24 @@ Computed from 2059 briefs.
 
 | tag | awards |
 |---|---|
-| most_representative | 852 |
-| strike | 719 |
-| reinstatement | 705 |
-| wages_during_suspension | 697 |
-| union_leader_protection | 671 |
-| interest_dispute | 667 |
-| overtime | 655 |
-| attendance_bonus | 606 |
-| fixed_term_to_indefinite | 587 |
-| meal_allowance | 575 |
-| annual_leave | 532 |
-| seniority_bonus | 437 |
-| severance_pay | 413 |
-| maternity | 254 |
+| most_representative | 856 |
+| strike | 722 |
+| reinstatement | 707 |
+| wages_during_suspension | 699 |
+| union_leader_protection | 674 |
+| interest_dispute | 670 |
+| overtime | 659 |
+| attendance_bonus | 610 |
+| fixed_term_to_indefinite | 592 |
+| meal_allowance | 574 |
+| annual_leave | 536 |
+| seniority_bonus | 441 |
+| severance_pay | 419 |
+| maternity | 255 |
 | notice_pay | 246 |
-| probation | 233 |
-| nursery | 181 |
+| probation | 235 |
+| nursery | 182 |
 | dismissal_compensation | 159 |
 | union_dues | 135 |
-| occupational_safety | 119 |
+| occupational_safety | 120 |
 | night_work | 83 |

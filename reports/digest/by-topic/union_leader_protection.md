@@ -1,4 +1,4 @@
-# union leader protection — 254 awards
+# union leader protection — 255 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -70,7 +70,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 49/07](../../../briefs/2007/union_leader_protection/140610.md) | dismissed | A union that has filed a registration application but is still inside the two-month waiting period of Article 268(1) of the Labour Law holds no full legal right |
 | [Award No. 75/07](../../../briefs/2007/union_leader_protection/140631.md) | partly granted | Early termination of a fixed-duration probationary contract is lawful in form but still carries the Article 73 consequences — damages equal to the remaining rem |
 
-## 2008 — 18
+## 2008 — 19
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -78,6 +78,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 02/08](../../../briefs/2008/union_leader_protection/140476.md) | no jurisdiction | A panel will not continue to arbitrate a collective labour dispute, and will close the file without deciding the referred demands, where a party maintains a str |
 | [Award No. 04/08](../../../briefs/2008/union_leader_protection/140477.md) | no jurisdiction | A panel will not arbitrate a collective dispute, and will close the file without deciding the referred demands, where one party maintains a strike or lockout th |
 | [Award No. 06/08](../../../briefs/2008/union_leader_protection/140481.md) | partly granted | A dismissal that occurs after the conciliation record satisfies the timing limb of Article 312 but not its causal limb: the panel will refuse to examine it unle |
+| [Award No. 10/08](../../../briefs/2008/union_leader_protection/140484.md) | partly granted | A worker who averages 21 days of work per month for two consecutive months is a regular worker, whatever the contract label . Occasional workers enjoy the same  |
 | [Award No. 132/08](../../../briefs/2008/union_leader_protection/140560.md) | withdrawn | Where a claimant party has been properly summoned and neither appears nor participates at any stage of the proceedings, and offers no valid reason for its absen |
 | [Award No. 140/07](../../../briefs/2008/union_leader_protection/140669.md) | granted | A fixed-duration contract ends on its stated date, and a demand for its renewal must be refused unless the worker shows that the refusal was union discriminatio |
 | [Award No. 141/08](../../../briefs/2008/union_leader_protection/140568.md) | dismissed | An employer may change shift hours by amending its internal rules provided it consults the worker representatives and obtains the labour inspector's prior appro |
@@ -330,7 +331,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 031/20](../../../briefs/2020/union_leader_protection/139935.md) | withdrawn | A claimant union that, having been duly summoned, walks out of the hearing because the panel declines to add an issue omitted from the non-conciliation minutes  |
 | [Award No. 033/20](../../../briefs/2020/union_leader_protection/140472.md) | dismissed | A demand that the employer notify the union before a worker's contract ends fails where no statute, collective agreement, internal rule or established practice  |
 | [Award No. 115/19](../../../briefs/2020/union_leader_protection/139287.md) | partly granted | An attendance bonus may be withheld only where absence falls outside leave that is a right by law, by contract or by legal duty: days of annual, sick, special o |
-| [Award No. 117/19](../../../briefs/2020/union_leader_protection/139284.md) | dismissed | An employer's duty under Article 66 of the Trade Union Law 2016 not to refuse union representatives access to the enterprise is not absolute: where access to a  |
+| [Award No. 117/19](../../../briefs/2020/union_leader_protection/139284.md) | dismissed | Under Article 66 of the Trade Union Law, union access to a production area may be refused where the employer shows disruption or product-quality harm. Article 1 |
 
 ## 2021 — 5
 
@@ -358,6 +359,6 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
-| [Award No. 001/26](../../../briefs/2026/union_leader_protection/140896.md) | partly granted | Cutting working days while paying half wage is a suspension of the employment contract, and it is lawful only if the employer notified and obtained prior author |
+| [Award No. 001/26](../../../briefs/2026/union_leader_protection/140896.md) | partly granted | An employer that reduces workdays without prior labour-inspectorate authorisation and a lawful suspension has not shifted the wage risk; it must maintain full w |
 | [Award No. 006/26](../../../briefs/2026/union_leader_protection/162371.md) | granted | A suspension of employment contracts agreed with union leaders or worker representatives, without the prior authorisation and supervision of the labour inspecto |
 

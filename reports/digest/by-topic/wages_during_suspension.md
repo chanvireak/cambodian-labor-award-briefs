@@ -1,4 +1,4 @@
-# wages during suspension — 219 awards
+# wages during suspension — 220 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -66,7 +66,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 63/07](../../../briefs/2007/wages_during_suspension/140624.md) | dismissed | A strike suspends the labour contract under Article 332, so strikers earn no wage unless the employer hires replacements contrary to Article 334; a long-standin |
 | [Award No. 90/07](../../../briefs/2007/wages_during_suspension/140639.md) | dismissed | An employer's right to manage and direct the enterprise under Article 2(1) of the Labour Law includes the power to transfer a worker, but only where the transfe |
 
-## 2008 — 12
+## 2008 — 13
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -74,6 +74,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 119/08](../../../briefs/2008/wages_during_suspension/140554.md) | partly granted | Where a benefit is granted "without any condition", as the 6 USD attendance allowance is under Notification No. 032/08, suspension of the contract for authorise |
 | [Award No. 127/08](../../../briefs/2008/wages_during_suspension/140556.md) | partly granted | Wages are not payable for days on strike, because Article 332 suspends the contract, and an unlawful strike — one launched without a secret ballot, without the  |
 | [Award No. 128/08](../../../briefs/2008/wages_during_suspension/140559.md) | partly granted | The length of a fixed-duration contract is a matter of party autonomy: a panel will not rewrite a three-month term into six months merely because workers fear f |
+| [Award No. 130/08](../../../briefs/2008/wages_during_suspension/140558.md) | no jurisdiction | A supplier of materials to an enterprise does not become the employer of that enterprise's workers under Article 2 unless it directly employs them. Employer sta |
 | [Award No. 136/08](../../../briefs/2008/wages_during_suspension/140564.md) | partly granted | Where an employer has no work but does not formally suspend contracts with notification to the labour inspector, the wage obligation survives and full wages are |
 | [doc 140491](../../../briefs/2008/wages_during_suspension/140491.md) | partly granted | A suspension of employment under Article 71(11) is lawful only where the Labour Inspector has actually approved it in writing; the employer's notification alone |
 | [Award No. 23/08](../../../briefs/2008/wages_during_suspension/140490.md) | partly granted | Where a wage depends on a daily rate, the divisor is the number of days the worker actually worked in the month, not a fixed 26; a fixed divisor understates hol |
@@ -90,7 +91,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 100/09](../../../briefs/2009/wages_during_suspension/140417.md) | dismissed | An injury suffered by a worker during a strike is not a work accident, because Article 332 suspends the employment contract for the duration of the strike so th |
 | [Award No. 108/09](../../../briefs/2009/wages_during_suspension/140420.md) | partly granted | Maternity allowance must be calculated on the average of the 12 months' wages preceding the leave rather than the last basic wage, and must be paid before the l |
 | [Award No. 123/09](../../../briefs/2009/wages_during_suspension/140434.md) | partly granted | Where an employer suspends operations without the prior authorisation and supervision of the labour inspector that Articles 71(11) and 72(1) require, the suspen |
-| [Award No. 125/09](../../../briefs/2009/wages_during_suspension/140436.md) | granted | A strike that does not follow the statutory procedure is still not serious misconduct justifying dismissal unless a court has determined its illegality, so an e |
+| [Award No. 125/09](../../../briefs/2009/wages_during_suspension/140436.md) | partly granted | A strike that is procedurally irregular is not, without a competent authority's declaration of illegality under Article 337, serious misconduct justifying dismi |
 | [Award No. 126/09](../../../briefs/2009/wages_during_suspension/140438.md) | partly granted | An employer that stops giving work without the labour inspector's prior authorisation under Article 71(11) cannot treat the stoppage as a lawful suspension, and |
 | [Award No. 133/09](../../../briefs/2009/wages_during_suspension/140442.md) | partly granted | An employer may lawfully pay less than full wages during a work stoppage only if it has notified the labour inspector and obtained approval for the suspension o |
 | [Award No. 137/09](../../../briefs/2009/wages_during_suspension/140444.md) | no jurisdiction | A panel will not arbitrate, and will close the file without deciding the merits, where the workers continue a strike during the proceedings in breach of Article |

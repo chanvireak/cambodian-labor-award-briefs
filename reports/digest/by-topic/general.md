@@ -1,4 +1,4 @@
-# general — 52 awards
+# general — 53 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -8,7 +8,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 |---|---|---|
 | [Award No. 87/04](../../../briefs/2004/general/139348.md) | dismissed | A demand that an employer dismiss a supervisor or fellow employee will be rejected unless the workers prove that the person is dangerous and can no longer be pe |
 
-## 2006 — 6
+## 2006 — 7
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -18,6 +18,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 79/05](../../../briefs/2006/general/140803.md) | granted | An employer that obtains employment books in bulk for its workers may recover only the official fee fixed by Notification 013/97 and Joint Prakas 147/01, and an |
 | [Award No. 88/06](../../../briefs/2006/general/140732.md) | partly granted | A workers' demand that an employer dismiss a colleague succeeds only where evidence shows the person is dangerous and would create labour insecurity; the employ |
 | [Award No. 91/06](../../../briefs/2006/general/140735.md) | granted | The employer must bear health-check costs under Article 247(c) of the Labour Law, including pre-hiring checks, and a contract clause shifting that cost to the w |
+| [Award No. 92/06](../../../briefs/2006/general/140736.md) | partly granted | Labour Law protections apply to all wage earners regardless of whether they are labelled "worker" or "employee". An employer must bear health examination costs  |
 
 ## 2007 — 1
 
@@ -132,5 +133,5 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
-| [Award No. 005/25](../../../briefs/2025/general/140892.md) | granted | A service charge collected from customers is the workers' remuneration, so an employer may not retain any part of it for its own purposes; a breakage reserve de |
+| [Award No. 005/25](../../../briefs/2025/general/140892.md) | granted | Service charges collected from customers are part of wages and must be paid to the employees who provided the service, not retained for general hotel expenses.  |
 

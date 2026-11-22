@@ -1,4 +1,4 @@
-# fixed term to indefinite — 347 awards
+# fixed term to indefinite — 349 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -48,7 +48,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 34/05](../../../briefs/2005/fixed_term_to_indefinite/140779.md) | granted | Because Article 293 protects union leaders against dismissal, and dismissal means ending a contract still running, it does not require Labour Inspector authoris |
 | [Award No. 64/05](../../../briefs/2005/fixed_term_to_indefinite/140796.md) | granted | Delegate protection for union leaders depends on the employer being informed of the candidacy by reliable means; where that is not proved, the dismissal is stil |
 
-## 2006 — 16
+## 2006 — 17
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -63,6 +63,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 38/06](../../../briefs/2006/fixed_term_to_indefinite/140701.md) | partly granted | Under Article 247(3)(c) of the 1997 Labour Law the employer must pay the cost of medical examinations, including those required before hiring, and that obligati |
 | [Award No. 43/06](../../../briefs/2006/fixed_term_to_indefinite/140702.md) | partly granted | The Article 293 protection of a union leader or candidate depends on the union having notified the employer of the protected names by reliable means; where that |
 | [Award No. 49/06](../../../briefs/2006/fixed_term_to_indefinite/140708.md) | partly granted | An employer may not discipline a worker for taking part in a lawful strike, and even where a strike is unlawful any sanction must be proportionate to the fault; |
+| [Award No. 53/06](../../../briefs/2006/fixed_term_to_indefinite/140709.md) | partly granted | An employer terminating an indefinite contract must give prior written notice and prove reasonable grounds; unsupported allegations and an admission of dismissa |
 | [Award No. 73/06](../../../briefs/2006/fixed_term_to_indefinite/140722.md) | granted | An employer that fills in a probation clause without informing the worker, on a form the worker never signed as a contract, creates no probation and no written  |
 | [Award No. 76/06](../../../briefs/2006/fixed_term_to_indefinite/140724.md) | dismissed | Severance under Article 73(6) falls due when the employment relationship is severed, not each time a fixed-duration contract reaches its term; renewal of the co |
 | [Award No. 81/06](../../../briefs/2006/fixed_term_to_indefinite/140728.md) | granted | A claim by two dismissed union leaders in a factory of several hundred workers is not a collective labour dispute where their election was never notified to the |
@@ -169,7 +170,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 87/11](../../../briefs/2011/fixed_term_to_indefinite/140050.md) | partly granted | A candidate's protection under article 3 of Prakas 305 depends on proof that the union actually notified the employer of the candidacy by a reliable means befor |
 | [Award No. 98/11](../../../briefs/2011/fixed_term_to_indefinite/140062.md) | partly granted | An employer may enforce reasonable grooming rules under its power to direct and manage the enterprise, but may not back them with wage deductions, because disci |
 
-## 2012 — 31
+## 2012 — 32
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
@@ -189,6 +190,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 181/11](../../../briefs/2012/fixed_term_to_indefinite/140117.md) | granted | Where a settlement agreement fixes the year in which strike-day wages are to be recovered from annual leave, the employer may not take that deduction from an ea |
 | [Award No. 182/11](../../../briefs/2012/fixed_term_to_indefinite/140120.md) | partly granted | An employer may not deduct wages as a disciplinary fine, whatever its internal rules provide: Article 28 makes any reduction of the wage normally earned unlawfu |
 | [Award No. 183/11](../../../briefs/2012/fixed_term_to_indefinite/140121.md) | partly granted | Managerial authority to discipline includes requiring a worker to acknowledge a fault in writing, but a sanction that removes the worker from the workplace inde |
+| [Award No. 184/12](../../../briefs/2012/fixed_term_to_indefinite/140184.md) | partly granted | A future panel should ask first whether the employer proved the alleged misconduct with specific evidence; suspicion alone cannot justify dismissal . Even prove |
 | [Award No. 19/12](../../../briefs/2012/fixed_term_to_indefinite/139948.md) | granted | A union leader who cannot satisfy the third Prakas No. 305 condition, because the union never notified the employer who its protected officers were, loses the A |
 | [Award No. 190/12](../../../briefs/2012/fixed_term_to_indefinite/140189.md) | granted | Successive fixed-duration contracts whose combined duration passes two years convert into a contract of undetermined duration under Articles 67(2) and 73(5), an |
 | [Award No. 193/12](../../../briefs/2012/fixed_term_to_indefinite/140188.md) | partly granted | A union leader within the protection of Article 293 and Prakas No. 305 cannot be dismissed without prior authorisation from the Labour Inspector, and where that |
@@ -244,7 +246,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 011/14](../../../briefs/2014/fixed_term_to_indefinite/139508.md) | dismissed | A resignation letter signed and thumbprinted by the worker, acknowledging receipt of final wages and all terminal benefits, is treated as evidence of voluntary  |
 | [Award No. 014/14](../../../briefs/2014/fixed_term_to_indefinite/139506.md) | withdrawn | An employer may suspend a contract while a criminal complaint against the worker is investigated, but the suspension does not suspend the duty to pay: full wage |
 | [Award No. 020/14](../../../briefs/2014/fixed_term_to_indefinite/139511.md) | partly granted | When an employer closes the factory and pays half wages, the shortfall is recoverable only for a day on which workers actually presented themselves for work wit |
-| [Award No. 028/14](../../../briefs/2014/fixed_term_to_indefinite/139515.md) | partly granted | A disciplinary escalation is valid only where the internal rules themselves prescribe the step taken: an employer cannot treat a fourth minor misconduct as a th |
+| [Award No. 028/14](../../../briefs/2014/fixed_term_to_indefinite/139515.md) | partly granted | A fixed-term contract becomes undetermined in duration where renewals or rolling terms exceed two years under Article 67(2) of the Labour Law . Dismissal requir |
 | [Award No. 033/14](../../../briefs/2014/fixed_term_to_indefinite/139522.md) | partly granted | An employer alleging abandonment of employment must prove it with specific, consistent evidence — attendance records, the responsible supervisor, notice — and a |
 | [Award No. 035/14](../../../briefs/2014/fixed_term_to_indefinite/139520.md) | granted | A union leadership candidate, and the office-holder elected from that candidacy, is protected from dismissal for 45 days before and after the election; a dismis |
 | [Award No. 043/14](../../../briefs/2014/fixed_term_to_indefinite/139526.md) | partly granted | Statutory severance under Articles 77, 89 and 91 is owed only on the employer's unilateral termination of an indefinite-term contract; a termination agreed at t |
@@ -370,7 +372,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 133/16](../../../briefs/2016/fixed_term_to_indefinite/139043.md) | granted | Successive fixed-duration contracts whose aggregate exceeds two years convert by operation of Article 67(2) and Article 73(5) into a contract of undetermined du |
 | [Award No. 134/16](../../../briefs/2016/fixed_term_to_indefinite/139044.md) | partly granted | The closure of an enterprise does not release the employer from the termination obligations of Section 3 of the Labour Law, and a closure announced and carried  |
 | [Award No. 141/16](../../../briefs/2016/fixed_term_to_indefinite/139049.md) | granted | A worker elected to union office is protected against dismissal from the day of the poll for 45 days under the third indent of Article 3 of Prakas No. 305, and  |
-| [Award No. 146/16](../../../briefs/2016/fixed_term_to_indefinite/139054.md) | granted | Where an employer renews a worker on successive fixed-duration contracts so that their aggregate duration exceeds two years, the relationship is an unlimited-du |
+| [Award No. 146/16](../../../briefs/2016/fixed_term_to_indefinite/139054.md) | granted | Fixed-term contracts renewed so that their aggregate duration exceeds two years convert to indefinite-term contracts, after which the employer may terminate onl |
 | [Award No. 157/16](../../../briefs/2016/fixed_term_to_indefinite/139063.md) | partly granted | A union leader whose union is not yet registered is protected against dismissal under Prakas No. 305 only where three cumulative conditions are met: she belongs |
 | [Award No. 162/16](../../../briefs/2016/fixed_term_to_indefinite/139066.md) | no jurisdiction | Where a union's authority to bring a collective dispute rests solely on written transfers of rights from individual workers, and every one of those workers has  |
 | [Award No. 177/16](../../../briefs/2016/fixed_term_to_indefinite/139079.md) | partly granted | Successive fixed-term contracts whose total duration exceeds two years, where the employer keeps paying wages and preserves seniority across the breaks between  |

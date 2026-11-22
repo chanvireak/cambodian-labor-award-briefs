@@ -55,5 +55,5 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
-| [Award No. 010/26](../../../briefs/2026/notice_pay/162369.md) | granted | An employer that employs at least 100 women workers must actually provide a nursing room and a nursery under Article 186; a monthly cash allowance paid in place |
+| [Award No. 010/26](../../../briefs/2026/notice_pay/162369.md) | granted | An employer that employs at least 100 women workers must arrange a nursery and breastfeeding room under Article 186 of the Labour Law . If it cannot take childr |
 

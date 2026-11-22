@@ -53,7 +53,7 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 186/12](../../../briefs/2012/attendance_bonus/140186.md) | dismissed | A ministerial notification fixing a monthly health allowance for the textile, garment and footwear industries binds only the industries it names; an enterprise  |
 | [Award No. 208/12](../../../briefs/2012/attendance_bonus/140203.md) | partly granted | A worker who attends on a strike day but works only part of it is entitled to wages for the hours actually worked and no more; time lost to disruption by striki |
 | [Award No. 209/12](../../../briefs/2012/attendance_bonus/140204.md) | partly granted | The Council will not hear a complaint that a party has failed to carry out one of its awards: once the eight-day objection period under Prakas No. 099 has expir |
-| [Award No. 211/12](../../../briefs/2012/attendance_bonus/140206.md) | partly granted | An attendance bonus fixed by ministerial notification is a wage standard, not a discretionary gift: where a worker takes unpaid leave authorized by the employer |
+| [Award No. 211/12](../../../briefs/2012/attendance_bonus/140206.md) | partly granted | A regularity bonus fixed by Ministry notice follows the wage regime, so an employer may reduce it in proportion to days of authorised unpaid leave, which is a n |
 | [Award No. 83/12](../../../briefs/2012/attendance_bonus/140003.md) | granted | Workers may demand the dismissal of a fellow employee only where that person is shown to be dangerous and keeping them could harm the workplace; a supervisor wh |
 
 ## 2013 — 3
