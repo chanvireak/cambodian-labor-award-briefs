@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 title: Cambodian Labour Arbitration Award Briefs
-message: Machine-generated research notes on public awards of the Arbitration Council of Cambodia.
+message: >-
+  Machine-generated research notes on public awards of the Arbitration Council of Cambodia.
+  Not legal advice; the award controls.
 type: dataset
 authors:
   - family-names: Chanvireak
@@ -9,4 +11,11 @@ authors:
     website: "https://github.com/chanvireak"
 repository-code: "https://github.com/chanvireak/cambodian-labor-award-briefs"
 license: MIT
-date-released: 2026-11-17
+date-released: 2026-11-22
+keywords:
+  - cambodia
+  - labour law
+  - arbitration
+  - arbitration council of cambodia
+  - legal research
+  - case briefs
