@@ -52,7 +52,7 @@ Computed from 2068 briefs.
 
 | issues | awards |
 |---|---|
-| 1 | 457 |
+| 1 | 456 |
 | 10 | 31 |
 | 11 | 12 |
 | 12 | 7 |
@@ -65,7 +65,7 @@ Computed from 2068 briefs.
 | 2 | 534 |
 | 3 | 334 |
 | 4 | 234 |
-| 5 | 151 |
+| 5 | 152 |
 | 6 | 124 |
 | 7 | 70 |
 | 8 | 64 |
@@ -83,7 +83,7 @@ Computed from 2068 briefs.
 | interest_dispute | 670 |
 | overtime | 659 |
 | attendance_bonus | 610 |
-| fixed_term_to_indefinite | 592 |
+| fixed_term_to_indefinite | 591 |
 | meal_allowance | 574 |
 | annual_leave | 536 |
 | seniority_bonus | 441 |
