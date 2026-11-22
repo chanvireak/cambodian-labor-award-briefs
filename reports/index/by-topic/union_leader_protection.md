@@ -1,4 +1,4 @@
-# union leader protection — 256 awards
+# union leader protection — 257 awards
 
 Filed by year: see [by year](../by-year/README.md).
 
@@ -67,6 +67,7 @@ Filed by year: see [by year](../by-year/README.md).
 | Award No. 74/08 | 2008 | granted |  | [140526](../../../briefs/2008/union_leader_protection/140526.md) |
 | Award No. 97/08 | 2008 | partly granted |  | [140538](../../../briefs/2008/union_leader_protection/140538.md) |
 | Award No. 06/09 | 2009 | partly granted |  | [140352](../../../briefs/2009/union_leader_protection/140352.md) |
+| Award No. 10/09 | 2009 | partly granted |  | [140354](../../../briefs/2009/union_leader_protection/140354.md) |
 | Award No. 112/09 | 2009 | partly granted |  | [140425](../../../briefs/2009/union_leader_protection/140425.md) |
 | Award No. 122/09 | 2009 | partly granted |  | [140432](../../../briefs/2009/union_leader_protection/140432.md) |
 | Award No. 13/09 | 2009 | partly granted |  | [140358](../../../briefs/2009/union_leader_protection/140358.md) |

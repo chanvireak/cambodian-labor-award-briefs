@@ -1,6 +1,6 @@
 # Corpus shape
 
-Computed from 2069 briefs.
+Computed from 2070 briefs.
 
 ## Year of award
 
@@ -12,7 +12,7 @@ Computed from 2069 briefs.
 | 2006 | 75 |
 | 2007 | 87 |
 | 2008 | 102 |
-| 2009 | 122 |
+| 2009 | 123 |
 | 2010 | 110 |
 | 2011 | 129 |
 | 2012 | 171 |
@@ -35,7 +35,7 @@ Computed from 2069 briefs.
 
 | outcome | awards |
 |---|---|
-| partly granted | 991 |
+| partly granted | 992 |
 | dismissed | 481 |
 | granted | 346 |
 | withdrawn | 118 |
@@ -46,7 +46,7 @@ Computed from 2069 briefs.
 
 | language | awards |
 |---|---|
-|  | 2069 |
+|  | 2070 |
 
 ## Issues per award
 
@@ -68,7 +68,7 @@ Computed from 2069 briefs.
 | 5 | 152 |
 | 6 | 124 |
 | 7 | 70 |
-| 8 | 64 |
+| 8 | 65 |
 | 9 | 33 |
 
 ## Doctrine tags (an award can carry several)
@@ -77,17 +77,17 @@ Computed from 2069 briefs.
 |---|---|
 | most_representative | 856 |
 | strike | 722 |
-| reinstatement | 707 |
+| reinstatement | 708 |
 | wages_during_suspension | 699 |
-| union_leader_protection | 675 |
+| union_leader_protection | 676 |
 | interest_dispute | 670 |
-| overtime | 659 |
-| attendance_bonus | 610 |
+| overtime | 660 |
+| attendance_bonus | 611 |
 | fixed_term_to_indefinite | 591 |
 | meal_allowance | 574 |
 | annual_leave | 536 |
 | seniority_bonus | 441 |
-| severance_pay | 419 |
+| severance_pay | 420 |
 | maternity | 255 |
 | notice_pay | 246 |
 | probation | 235 |

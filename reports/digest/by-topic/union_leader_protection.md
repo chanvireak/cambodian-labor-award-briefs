@@ -1,4 +1,4 @@
-# union leader protection — 256 awards
+# union leader protection — 257 awards
 
 Filed by year: [by year](../by-year/README.md). Back to [index](../../index/README.md).
 
@@ -94,11 +94,12 @@ Filed by year: [by year](../by-year/README.md). Back to [index](../../index/READ
 | [Award No. 74/08](../../../briefs/2008/union_leader_protection/140526.md) | granted | Where an employer deducts absence from a worker's base wage plus skill allowance, it must compute overtime on the same combined figure, because a monthly skill  |
 | [Award No. 97/08](../../../briefs/2008/union_leader_protection/140538.md) | partly granted | Because Article 10 already entitles casual workers to the same rights and benefits as regular workers, a demand to re-label casual workers as regular workers se |
 
-## 2009 — 16
+## 2009 — 17
 
 | award | outcome | ratio (excerpt) |
 |---|---|---|
 | [Award No. 06/09](../../../briefs/2009/union_leader_protection/140352.md) | partly granted | A union dues deduction under Article 129 requires an individual, written and revocable authorisation from each member; once that authorisation is delivered, the |
+| [Award No. 10/09](../../../briefs/2009/union_leader_protection/140354.md) | partly granted | A fixed-duration contract ends on its stated date, and absent agreement or proven discrimination no party can compel renewal; protection for union leaders again |
 | [Award No. 112/09](../../../briefs/2009/union_leader_protection/140425.md) | partly granted | A past practice is binding only where the conduct is consistent, clear and accepted by both parties; a facility habitually extended to named individuals does no |
 | [Award No. 122/09](../../../briefs/2009/union_leader_protection/140432.md) | partly granted | An unregistered union cannot represent the workforce before the panel: under Article 268 it acquires the law's rights only on registration, and under Prakara 19 |
 | [Award No. 13/09](../../../briefs/2009/union_leader_protection/140358.md) | partly granted | A written authorisation to deduct union dues under Article 129(2) belongs to the individual worker and is revocable at any time; on receiving the worker's writt |
